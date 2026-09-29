@@ -4,12 +4,12 @@
     "school": "Beschwörung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier"
     ],
     "contents": [
-      "section | Beschwörungszauber 4. Grades | PHB 2024",
+      "section | Beschwörungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 27 Meter",
       "property | Komponenten | V, G, M (ein eingelegtes Tentakel und ein Augapfel in einer Phiole mit Platinintarsie im Wert von mindestens 400 GM)",
@@ -32,13 +32,13 @@
     "school": "Illusion",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier"
     ],
     "contents": [
-      "section | Illusionszauber 5. Grades | PHB 2024",
+      "section | Illusionszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | S",
@@ -60,12 +60,12 @@
     "school": "Bann",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Waldläufer"
     ],
     "contents": [
-      "section | Bannzauber 1. Grades | PHB 2024",
+      "section | Bannzauber 1. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute oder Ritual",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (Glocke und Silberdraht)",
@@ -88,12 +88,12 @@
     "school": "Nekromantie",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker"
     ],
     "contents": [
-      "section | Nekromantiezauber 5. Grades | PHB 2024",
+      "section | Nekromantiezauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G",
@@ -115,12 +115,12 @@
     "school": "Bann",
     "level": 8,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker",
       "Magier"
     ],
     "contents": [
-      "section | Bannzauber 8. Grades | PHB 2024",
+      "section | Bannzauber 8. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (Eisenspäne)",
@@ -143,13 +143,13 @@
     "school": "Verzauberung",
     "level": 8,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Magier"
     ],
     "contents": [
-      "section | Verzauberungszauber 8. Grades | PHB 2024",
+      "section | Verzauberungszauber 8. Grades | SRD521",
       "property | Zeitaufwand | 1 Stunde",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G, M (eine Mischung aus Essig und Honig)",
@@ -172,13 +172,13 @@
     "school": "Illusion",
     "level": 7,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Magier"
     ],
     "contents": [
-      "section | Illusionszauber 7. Grades | PHB 2024",
+      "section | Illusionszauber 7. Grades | SRD521",
       "property | Zeitaufwand | 10 Minuten",
       "property | Reichweite | Sicht",
       "property | Komponenten | V, G",
@@ -200,12 +200,12 @@
     "school": "Bann",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Bannzauber 2. Grades | PHB 2024",
+      "section | Bannzauber 2. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -227,11 +227,11 @@
     "school": "Erkenntnis",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Erkenntniszauber 4. Grades | PHB 2024",
+      "section | Erkenntniszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (ein Stück Fledermausfell)",
@@ -252,11 +252,11 @@
     "school": "Bann",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Bannzauber 2. Grades | PHB 2024",
+      "section | Bannzauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (Goldstaub im Wert von mindestens 25 GM, den der Zauber verbraucht)",
@@ -276,13 +276,13 @@
     "school": "Beschwörung",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Beschwörungszauber 6. Grades | PHB 2024",
+      "section | Beschwörungszauber 6. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 150 Meter",
       "property | Komponenten | V, G",
@@ -304,11 +304,11 @@
     "school": "Beschwörung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister"
     ],
     "contents": [
-      "section | Beschwörungszauber 1. Grades | PHB 2024",
+      "section | Beschwörungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -330,13 +330,13 @@
     "school": "Nekromantie",
     "level": 9,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Kleriker",
       "Magier"
     ],
     "contents": [
-      "section | Nekromantiezauber 9. Grades | PHB 2024",
+      "section | Nekromantiezauber 9. Grades | SRD521",
       "property | Zeitaufwand | 1 Stunde",
       "property | Reichweite | 3 Meter",
       "property | Komponenten | V, G, M (für jedes Ziel des Zaubers einen Hyazinth im Wert von mindestens 1.000 GM und einen Silberbarren im Wert von mindestens 100 GM - der Zauber verbraucht jeweils beides)",
@@ -360,7 +360,7 @@
     "school": "Beschwörung",
     "level": 7,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Kleriker",
@@ -368,7 +368,7 @@
       "Zauberer"
     ],
     "contents": [
-      "section | Beschwörungszauber 7. Grades | PHB 2024",
+      "section | Beschwörungszauber 7. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -393,7 +393,7 @@
     "school": "Verwandlung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Kleriker",
@@ -402,7 +402,7 @@
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 2. Grades | PHB 2024",
+      "section | Verwandlungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (etwas Fell oder eine Feder)",
@@ -424,12 +424,12 @@
     "school": "Hervorrufung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 4. Grades | PHB 2024",
+      "section | Hervorrufungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 45 Meter",
       "property | Komponenten | V, G, M (ein Tropfen Galle)",
@@ -451,12 +451,12 @@
     "school": "Nekromantie",
     "level": 7,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Kleriker"
     ],
     "contents": [
-      "section | Nekromantiezauber 7. Grades | PHB 2024",
+      "section | Nekromantiezauber 7. Grades | SRD521",
       "property | Zeitaufwand | 1 Stunde",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (ein Diamant im Wert von mindestens 1.000 GM, den der Zauber verbraucht)",
@@ -479,12 +479,12 @@
     "school": "Verwandlung",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 6. Grades | PHB 2024",
+      "section | Verwandlungszauber 6. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G, M (ein Magnetstein und Staub)",
@@ -508,13 +508,13 @@
     "school": "Bann",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker",
       "Paladin"
     ],
     "contents": [
-      "section | Bannzauber 3. Grades | PHB 2024",
+      "section | Bannzauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V",
@@ -534,12 +534,12 @@
     "school": "Bann",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker",
       "Paladin"
     ],
     "contents": [
-      "section | Bannzauber 4. Grades | PHB 2024",
+      "section | Bannzauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V",
@@ -559,12 +559,12 @@
     "school": "Bann",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker",
       "Paladin"
     ],
     "contents": [
-      "section | Bannzauber 4. Grades | PHB 2024",
+      "section | Bannzauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V",
@@ -584,7 +584,7 @@
     "school": "Verwandlung",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Kleriker",
@@ -592,7 +592,7 @@
       "Zauberer"
     ],
     "contents": [
-      "section | Zaubertrick der Verwandlung | PHB 2024",
+      "section | Zaubertrick der Verwandlung | SRD521",
       "property | Zeitaufwand | 1 Minute",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (zwei Magnetsteine)",
@@ -613,13 +613,13 @@
     "school": "Illusion",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Illusionszauber 5. Grades | PHB 2024",
+      "section | Illusionszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G",
@@ -642,7 +642,7 @@
     "school": "Erkenntnis",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Hexenmeister",
@@ -650,7 +650,7 @@
       "Magier"
     ],
     "contents": [
-      "section | Erkenntniszauber 5. Grades | PHB 2024",
+      "section | Erkenntniszauber 5. Grades | SRD521",
       "property | Zeitaufwand | 10 Minuten",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (ein Fokus im Wert von mindestens 1.000 GM, beispielsweise eine Kristallkugel, ein Spiegel oder ein mit Wasser gefülltes Becken)",
@@ -679,12 +679,12 @@
     "school": "Beschwörung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Waldläufer"
     ],
     "contents": [
-      "section | Beschwörungszauber 5. Grades | PHB 2024",
+      "section | Beschwörungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -705,13 +705,13 @@
     "school": "Verzauberung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Kleriker",
       "Paladin"
     ],
     "contents": [
-      "section | Verzauberungszauber 1. Grades | PHB 2024",
+      "section | Verzauberungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V",
@@ -738,7 +738,7 @@
     "school": "Bann",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Kleriker",
@@ -746,7 +746,7 @@
       "Waldläufer"
     ],
     "contents": [
-      "section | Bannzauber 2. Grades | PHB 2024",
+      "section | Bannzauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (ein weißer Stoffstreifen)",
@@ -768,14 +768,14 @@
     "school": "Bann",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Kleriker",
       "Waldläufer"
     ],
     "contents": [
-      "section | Bannzauber 4. Grades | PHB 2024",
+      "section | Bannzauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (ein Lederriemen)",
@@ -798,12 +798,12 @@
     "school": "Hervorrufung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 5. Grades | PHB 2024",
+      "section | Hervorrufungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G, M (eine Eierschale und ein Handschuh)",
@@ -831,7 +831,7 @@
     "school": "Bann",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Hexenmeister",
@@ -839,7 +839,7 @@
       "Magier"
     ],
     "contents": [
-      "section | Bannzauber 5. Grades | PHB 2024",
+      "section | Bannzauber 5. Grades | SRD521",
       "property | Zeitaufwand | 1 Stunde",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G, M (ein Juwel im Wert von mindestens 1.000 GM, das der Zauber verbraucht)",
@@ -862,11 +862,11 @@
     "school": "Hervorrufung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Paladin"
     ],
     "contents": [
-      "section | Hervorrufungszauber 3. Grades | PHB 2024",
+      "section | Hervorrufungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion, die du sofort ausführst, wenn du eine Kreatur mit einer Nahkampfwaffe oder einem waffenlosen Angriff getroffen hast",
       "property | Reichweite | Selbst",
       "property | Komponenten | V",
@@ -888,14 +888,14 @@
     "school": "Verwandlung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Kleriker",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 2. Grades | PHB 2024",
+      "section | Verwandlungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V",
@@ -917,12 +917,12 @@
     "school": "Hervorrufung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 3. Grades | PHB 2024",
+      "section | Hervorrufungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (ein Stück Fell und ein Kristallstab)",
@@ -944,11 +944,11 @@
     "school": "Beschwörung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide"
     ],
     "contents": [
-      "section | Beschwörungszauber 3. Grades | PHB 2024",
+      "section | Beschwörungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G",
@@ -973,11 +973,11 @@
     "school": "Verwandlung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Waldläufer"
     ],
     "contents": [
-      "section | Verwandlungszauber 3. Grades | PHB 2024",
+      "section | Verwandlungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion, die du sofort ausführst, wenn du eine Kreatur mit einer Fernkampfwaffe getroffen oder verfehlt hast",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -999,14 +999,14 @@
     "school": "Nekromantie",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Nekromantiezauber 6. Grades | PHB 2024",
+      "section | Nekromantiezauber 6. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -1029,14 +1029,14 @@
     "school": "Verwandlung",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Zaubertrick der Verwandlung | PHB 2024",
+      "section | Zaubertrick der Verwandlung | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | G, M (ein Stück Kupferdraht)",
@@ -1057,12 +1057,12 @@
     "school": "Hervorrufung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 1. Grades | PHB 2024",
+      "section | Hervorrufungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -1085,11 +1085,11 @@
     "school": "Beschwörung",
     "level": 7,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker"
     ],
     "contents": [
-      "section | Beschwörungszauber 7. Grades | PHB 2024",
+      "section | Beschwörungszauber 7. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 27 Meter",
       "property | Komponenten | V, G",
@@ -1114,12 +1114,12 @@
     "school": "Beschwörung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker",
       "Paladin"
     ],
     "contents": [
-      "section | Beschwörungszauber 5. Grades | PHB 2024",
+      "section | Beschwörungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 27 Meter",
       "property | Komponenten | V, G, M (eine Reliquie im Wert von mindestens 500 GM)",
@@ -1142,12 +1142,12 @@
     "school": "Hervorrufung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 1. Grades | PHB 2024",
+      "section | Hervorrufungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 27 Meter",
       "property | Komponenten | V, G, M (ein Diamant im Wert von mindestens 50 GM)",
@@ -1170,13 +1170,13 @@
     "school": "Hervorrufung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker",
       "Magier"
     ],
     "contents": [
-      "section | Hervorrufungszauber 2. Grades | PHB 2024",
+      "section | Hervorrufungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (Rubinstaub im Wert von mindestens 50 GM, den der Zauber verbraucht)",
@@ -1196,14 +1196,14 @@
     "school": "Beschwörung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Beschwörungszauber 4. Grades | PHB 2024",
+      "section | Beschwörungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 150 Meter",
       "property | Komponenten | V",
@@ -1225,11 +1225,11 @@
     "school": "Verzauberung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde"
     ],
     "contents": [
-      "section | Verzauberungszauber 1. Grades | PHB 2024",
+      "section | Verzauberungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V",
@@ -1251,14 +1251,14 @@
     "school": "Beschwörung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Beschwörungszauber 2. Grades | PHB 2024",
+      "section | Beschwörungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G, M (eine Glasscherbe)",
@@ -1281,11 +1281,11 @@
     "school": "Hervorrufung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Paladin"
     ],
     "contents": [
-      "section | Hervorrufungszauber 1. Grades | PHB 2024",
+      "section | Hervorrufungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion, die du sofort ausführst, wenn du ein Ziel mit einer Nahkampfwaffe oder einem waffenlosen Angriff getroffen hast",
       "property | Reichweite | Selbst",
       "property | Komponenten | V",
@@ -1307,7 +1307,7 @@
     "school": "Hervorrufung",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Hexenmeister",
@@ -1315,7 +1315,7 @@
       "Zauberer"
     ],
     "contents": [
-      "section | Zaubertrick der Hervorrufung | PHB 2024",
+      "section | Zaubertrick der Hervorrufung | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | S",
@@ -1337,14 +1337,14 @@
     "school": "Hervorrufung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 1. Grades | PHB 2024",
+      "section | Hervorrufungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -1367,11 +1367,11 @@
     "school": "Beschwörung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Waldläufer"
     ],
     "contents": [
-      "section | Beschwörungszauber 1. Grades | PHB 2024",
+      "section | Beschwörungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion, die du sofort ausführst, wenn du eine Kreatur mit einer Fernkampfwaffe getroffen hast",
       "property | Reichweite | Selbst",
       "property | Komponenten | V",
@@ -1393,11 +1393,11 @@
     "school": "Verwandlung",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide"
     ],
     "contents": [
-      "section | Zaubertrick der Verwandlung | PHB 2024",
+      "section | Zaubertrick der Verwandlung | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (Stängel einer Dornenpflanze)",
@@ -1419,11 +1419,11 @@
     "school": "Beschwörung",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide"
     ],
     "contents": [
-      "section | Beschwörungszauber 6. Grades | PHB 2024",
+      "section | Beschwörungszauber 6. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G, M (eine Handvoll Dornen)",
@@ -1447,12 +1447,12 @@
     "school": "Verwandlung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Waldläufer"
     ],
     "contents": [
-      "section | Verwandlungszauber 2. Grades | PHB 2024",
+      "section | Verwandlungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 45 Meter",
       "property | Komponenten | V, G, M (sieben Dornen)",
@@ -1473,11 +1473,11 @@
     "school": "Beschwörung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Beschwörungszauber 5. Grades | PHB 2024",
+      "section | Beschwörungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G, M (ein Gegenstand mit eingraviertem Drachenbildnis im Wert von mindestens 500 GM)",
@@ -1500,12 +1500,12 @@
     "school": "Verwandlung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 2. Grades | PHB 2024",
+      "section | Verwandlungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (eine scharfe Pfefferschote)",
@@ -1527,11 +1527,11 @@
     "school": "Beschwörung",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Beschwörungszauber 6. Grades | PHB 2024",
+      "section | Beschwörungszauber 6. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute oder Ritual",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (ein Saphir im Wert von mindestens 1.000 GM)",
@@ -1553,11 +1553,11 @@
     "school": "Verwandlung",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide"
     ],
     "contents": [
-      "section | Zaubertrick der Verwandlung | PHB 2024",
+      "section | Zaubertrick der Verwandlung | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G",
@@ -1581,13 +1581,13 @@
     "school": "Hervorrufung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 2. Grades | PHB 2024",
+      "section | Hervorrufungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, M (Fledermausfell und ein Kohlenstück)",
@@ -1609,14 +1609,14 @@
     "school": "Verwandlung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Magier",
       "Waldläufer",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 2. Grades | PHB 2024",
+      "section | Verwandlungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (eine getrocknete Karotte)",
@@ -1636,14 +1636,14 @@
     "school": "Nekromantie",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Nekromantiezauber 4. Grades | PHB 2024",
+      "section | Nekromantiezauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G",
@@ -1666,7 +1666,7 @@
     "school": "Beschwörung",
     "level": 7,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Hexenmeister",
       "Kleriker",
@@ -1674,7 +1674,7 @@
       "Zauberer"
     ],
     "contents": [
-      "section | Beschwörungszauber 7. Grades | PHB 2024",
+      "section | Beschwörungszauber 7. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (eine gegabelte Metallrute im Wert von mindestens 250 GM, die auf eine Existenzebene eingestimmt ist)",
@@ -1695,14 +1695,14 @@
     "school": "Illusion",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Zaubertrick der Illusion | PHB 2024",
+      "section | Zaubertrick der Illusion | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | G, M (ein Stück Vlies)",
@@ -1725,14 +1725,14 @@
     "school": "Verzauberung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verzauberungszauber 2. Grades | PHB 2024",
+      "section | Verzauberungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, M (ein Tropfen Honig)",
@@ -1753,12 +1753,12 @@
     "school": "Bann",
     "level": 9,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier"
     ],
     "contents": [
-      "section | Bannzauber 9. Grades | PHB 2024",
+      "section | Bannzauber 9. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (eine Statuette in Gestalt des Ziels im Wert von mindestens 5.000 GM)",
@@ -1786,12 +1786,12 @@
     "school": "Erkenntnis",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Waldläufer"
     ],
     "contents": [
-      "section | Erkenntniszauber 5. Grades | PHB 2024",
+      "section | Erkenntniszauber 5. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute oder Ritual",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -1818,13 +1818,13 @@
     "school": "Beschwörung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Beschwörungszauber 1. Grades | PHB 2024",
+      "section | Beschwörungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | G, M (ein Tropfen Wasser oder ein Stück Eis)",
@@ -1846,13 +1846,13 @@
     "school": "Hervorrufung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 4. Grades | PHB 2024",
+      "section | Hervorrufungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 90 Meter",
       "property | Komponenten | V, G, M (ein Fausthandschuh)",
@@ -1875,11 +1875,11 @@
     "school": "Hervorrufung",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Hervorrufungszauber 6. Grades | PHB 2024",
+      "section | Hervorrufungszauber 6. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G, M (ein Stück Quarz)",
@@ -1904,13 +1904,13 @@
     "school": "Verwandlung",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Zaubertrick der Verwandlung | PHB 2024",
+      "section | Zaubertrick der Verwandlung | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G",
@@ -1935,12 +1935,12 @@
     "school": "Beschwörung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Magier"
     ],
     "contents": [
-      "section | Beschwörungszauber 5. Grades | PHB 2024",
+      "section | Beschwörungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -1963,13 +1963,13 @@
     "school": "Beschwörung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Magier",
       "Waldläufer"
     ],
     "contents": [
-      "section | Beschwörungszauber 4. Grades | PHB 2024",
+      "section | Beschwörungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 27 Meter",
       "property | Komponenten | V, G, M (Luft, ein Kiesel, Asche und Wasser in einer Phiole mit Goldintarsie im Wert von mindestens 400 GM)",
@@ -1992,13 +1992,13 @@
     "school": "Verwandlung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Paladin",
       "Waldläufer"
     ],
     "contents": [
-      "section | Verwandlungszauber 3. Grades | PHB 2024",
+      "section | Verwandlungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G",
@@ -2020,13 +2020,13 @@
     "school": "Hervorrufung",
     "level": 7,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier"
     ],
     "contents": [
-      "section | Hervorrufungszauber 7. Grades | PHB 2024",
+      "section | Hervorrufungszauber 7. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 30 Meter",
       "property | Komponenten | V, G, M (Rubinstaub im Wert von mindestens 1.500 GM, den der Zauber verbraucht)",
@@ -2050,11 +2050,11 @@
     "school": "Hervorrufung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Hervorrufungszauber 5. Grades | PHB 2024",
+      "section | Hervorrufungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G, M (eine Glasscherbe)",
@@ -2076,13 +2076,13 @@
     "school": "Verwandlung",
     "level": 8,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 8. Grades | PHB 2024",
+      "section | Verwandlungszauber 8. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 150 Meter",
       "property | Komponenten | V, G, M (ein geborstener Stein)",
@@ -2106,13 +2106,13 @@
     "school": "Verwandlung",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 6. Grades | PHB 2024",
+      "section | Verwandlungszauber 6. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G, M (eine Miniaturschaufel)",
@@ -2136,12 +2136,12 @@
     "school": "Verzauberung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier"
     ],
     "contents": [
-      "section | Verzauberungszauber 5. Grades | PHB 2024",
+      "section | Verzauberungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G",
@@ -2167,12 +2167,12 @@
     "school": "Illusion",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Illusionszauber 5. Grades | PHB 2024",
+      "section | Illusionszauber 5. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (ein Farbpinsel)",
@@ -2200,12 +2200,12 @@
     "school": "Verwandlung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide"
     ],
     "contents": [
-      "section | Verwandlungszauber 5. Grades | PHB 2024",
+      "section | Verwandlungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | 8 Stunden",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (ein Achat im Wert von mindestens 1.000 GM, den der Zauber verbraucht)",
@@ -2226,11 +2226,11 @@
     "school": "Verzauberung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Paladin"
     ],
     "contents": [
-      "section | Verzauberungszauber 1. Grades | PHB 2024",
+      "section | Verzauberungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V",
@@ -2251,11 +2251,11 @@
     "school": "Beschwörung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Beschwörungszauber 4. Grades | PHB 2024",
+      "section | Beschwörungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 27 Meter",
       "property | Komponenten | V, G, M (ein Tentakel)",
@@ -2277,11 +2277,11 @@
     "school": "Hervorrufung",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Zauberer"
     ],
     "contents": [
-      "section | Zaubertrick der Hervorrufung | PHB 2024",
+      "section | Zaubertrick der Hervorrufung | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G",
@@ -2304,13 +2304,13 @@
     "school": "Erkenntnis",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker",
       "Waldläufer"
     ],
     "contents": [
-      "section | Erkenntniszauber 2. Grades | PHB 2024",
+      "section | Erkenntniszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G",
@@ -2331,12 +2331,12 @@
     "school": "Nekromantie",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Nekromantiezauber 1. Grades | PHB 2024",
+      "section | Nekromantiezauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (ein Tropfen Alkohol)",
@@ -2359,13 +2359,13 @@
     "school": "Verwandlung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 1. Grades | PHB 2024",
+      "section | Verwandlungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Reaktion, die du ausführst, wenn du oder eine Kreatur im Abstand von bis zu 18 Metern von dir, die du sehen kannst, stürzt",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, M (eine kleine Feder oder Daune)",
@@ -2386,12 +2386,12 @@
     "school": "Hervorrufung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide"
     ],
     "contents": [
-      "section | Hervorrufungszauber 1. Grades | PHB 2024",
+      "section | Hervorrufungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V",
@@ -2413,11 +2413,11 @@
     "school": "Beschwörung",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide"
     ],
     "contents": [
-      "section | Beschwörungszauber 6. Grades | PHB 2024",
+      "section | Beschwörungszauber 6. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -2441,14 +2441,14 @@
     "school": "Beschwörung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Hexenmeister",
       "Magier",
       "Waldläufer"
     ],
     "contents": [
-      "section | Beschwörungszauber 3. Grades | PHB 2024",
+      "section | Beschwörungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 27 Meter",
       "property | Komponenten | V, G, M (eine vergoldete Blume im Wert von mindestens 300 GM)",
@@ -2472,12 +2472,12 @@
     "school": "Verzauberung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister"
     ],
     "contents": [
-      "section | Verzauberungszauber 2. Grades | PHB 2024",
+      "section | Verzauberungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -2498,11 +2498,11 @@
     "school": "Beschwörung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Waldläufer"
     ],
     "contents": [
-      "section | Beschwörungszauber 1. Grades | PHB 2024",
+      "section | Beschwörungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion, die du sofort ausführst, wenn du eine Kreatur mit einer Waffe getroffen hast",
       "property | Reichweite | Selbst",
       "property | Komponenten | V",
@@ -2526,12 +2526,12 @@
     "school": "Hervorrufung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 3. Grades | PHB 2024",
+      "section | Hervorrufungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 45 Meter",
       "property | Komponenten | V, G, M (eine Kugel aus Fledermaus-Guano und Schwefel)",
@@ -2555,12 +2555,12 @@
     "school": "Hervorrufung",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Zaubertrick der Hervorrufung | PHB 2024",
+      "section | Zaubertrick der Hervorrufung | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G",
@@ -2583,13 +2583,13 @@
     "school": "Hervorrufung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 4. Grades | PHB 2024",
+      "section | Hervorrufungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (etwas Phosphor oder ein Glühwürmchen)",
@@ -2612,13 +2612,13 @@
     "school": "Hervorrufung",
     "level": 7,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 7. Grades | PHB 2024",
+      "section | Hervorrufungszauber 7. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 45 Meter",
       "property | Komponenten | V, G",
@@ -2640,13 +2640,13 @@
     "school": "Hervorrufung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 4. Grades | PHB 2024",
+      "section | Hervorrufungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G, M (ein Stück Kohle)",
@@ -2671,13 +2671,13 @@
     "school": "Nekromantie",
     "level": 7,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Nekromantiezauber 7. Grades | PHB 2024",
+      "section | Nekromantiezauber 7. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -2699,11 +2699,11 @@
     "school": "Beschwörung",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide"
     ],
     "contents": [
-      "section | Zaubertrick der Beschwörung | PHB 2024",
+      "section | Zaubertrick der Beschwörung | SRD521",
       "property | Zeitaufwand | Bonusaktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -2727,13 +2727,13 @@
     "school": "Beschwörung",
     "level": 8,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Beschwörungszauber 8. Grades | PHB 2024",
+      "section | Beschwörungszauber 8. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 45 Meter",
       "property | Komponenten | V, G",
@@ -2756,12 +2756,12 @@
     "school": "Hervorrufung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 2. Grades | PHB 2024",
+      "section | Hervorrufungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (ein Sumach-Blatt)",
@@ -2786,13 +2786,13 @@
     "school": "Beschwörung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Beschwörungszauber 2. Grades | PHB 2024",
+      "section | Beschwörungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G, M (eine Kugel aus Wachs)",
@@ -2817,11 +2817,11 @@
     "school": "Hervorrufung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker"
     ],
     "contents": [
-      "section | Hervorrufungszauber 5. Grades | PHB 2024",
+      "section | Hervorrufungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G, M (eine Prise Schwefel)",
@@ -2844,13 +2844,13 @@
     "school": "Verwandlung",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 6. Grades | PHB 2024",
+      "section | Verwandlungszauber 6. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G, M (eine Schreckhahn-Feder)",
@@ -2873,13 +2873,13 @@
     "school": "Verwandlung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 3. Grades | PHB 2024",
+      "section | Verwandlungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (eine Feder)",
@@ -2902,12 +2902,12 @@
     "school": "Verwandlung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 3. Grades | PHB 2024",
+      "section | Verwandlungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -2929,13 +2929,13 @@
     "school": "Nekromantie",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Kleriker",
       "Magier"
     ],
     "contents": [
-      "section | Nekromantiezauber 3. Grades | PHB 2024",
+      "section | Nekromantiezauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G",
@@ -2962,14 +2962,14 @@
     "school": "Bann",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Kleriker",
       "Magier",
       "Paladin"
     ],
     "contents": [
-      "section | Bannzauber 3. Grades | PHB 2024",
+      "section | Bannzauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G",
@@ -2990,14 +2990,14 @@
     "school": "Verzauberung",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Zaubertrick der Verzauberung | PHB 2024",
+      "section | Zaubertrick der Verzauberung | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 3 Meter",
       "property | Komponenten | G, M (etwas Schminke)",
@@ -3019,14 +3019,14 @@
     "school": "Illusion",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Illusionszauber 3. Grades | PHB 2024",
+      "section | Illusionszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (eine weiße Feder)",
@@ -3048,13 +3048,13 @@
     "school": "Verwandlung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 3. Grades | PHB 2024",
+      "section | Verwandlungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (ein Stück Gaze)",
@@ -3079,7 +3079,7 @@
     "school": "Verzauberung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Kleriker",
@@ -3087,7 +3087,7 @@
       "Paladin"
     ],
     "contents": [
-      "section | Verzauberungszauber 5. Grades | PHB 2024",
+      "section | Verzauberungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V",
@@ -3112,12 +3112,12 @@
     "school": "Bann",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker",
       "Paladin"
     ],
     "contents": [
-      "section | Bannzauber 2. Grades | PHB 2024",
+      "section | Bannzauber 2. Grades | SRD521",
       "property | Zeitaufwand | 10 Minuten",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V",
@@ -3140,13 +3140,13 @@
     "school": "Erkenntnis",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Erkenntniszauber 2. Grades | PHB 2024",
+      "section | Erkenntniszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (1 Kupfermünze)",
@@ -3170,13 +3170,13 @@
     "school": "Erkenntnis",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Erkenntniszauber 2. Grades | PHB 2024",
+      "section | Erkenntniszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | S",
@@ -3199,12 +3199,12 @@
     "school": "Bann",
     "level": 8,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier"
     ],
     "contents": [
-      "section | Bannzauber 8. Grades | PHB 2024",
+      "section | Bannzauber 8. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G",
@@ -3225,13 +3225,13 @@
     "school": "Verzauberung",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Zaubertrick der Verzauberung | PHB 2024",
+      "section | Zaubertrick der Verzauberung | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V",
@@ -3254,12 +3254,12 @@
     "school": "Verzauberung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Kleriker"
     ],
     "contents": [
-      "section | Verzauberungszauber 2. Grades | PHB 2024",
+      "section | Verzauberungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -3282,7 +3282,7 @@
     "school": "Erkenntnis",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Kleriker",
@@ -3291,7 +3291,7 @@
       "Waldläufer"
     ],
     "contents": [
-      "section | Erkenntniszauber 2. Grades | PHB 2024",
+      "section | Erkenntniszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (ein gegabelter Zweig)",
@@ -3314,13 +3314,13 @@
     "school": "Verwandlung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 5. Grades | PHB 2024",
+      "section | Verwandlungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G",
@@ -3345,13 +3345,13 @@
     "school": "Bann",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Bannzauber 3. Grades | PHB 2024",
+      "section | Bannzauber 3. Grades | SRD521",
       "property | Zeitaufwand | Reaktion, die du ausführst, wenn du siehst, wie eine Kreatur im Abstand von bis zu 18 Metern von dir einen Zauber mit Gesten-, Material- oder Verbalkomponenten wirkt",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | S",
@@ -3372,11 +3372,11 @@
     "school": "Verzauberung",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde"
     ],
     "contents": [
-      "section | Zaubertrick der Verzauberung | PHB 2024",
+      "section | Zaubertrick der Verzauberung | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V",
@@ -3399,11 +3399,11 @@
     "school": "Illusion",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Illusionszauber 3. Grades | PHB 2024",
+      "section | Illusionszauber 3. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute oder Ritual",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G",
@@ -3426,12 +3426,12 @@
     "school": "Verwandlung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 2. Grades | PHB 2024",
+      "section | Verwandlungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -3455,12 +3455,12 @@
     "school": "Verwandlung",
     "level": 9,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Magier"
     ],
     "contents": [
-      "section | Verwandlungszauber 9. Grades | PHB 2024",
+      "section | Verwandlungszauber 9. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (ein Jadediadem im Wert von mindestens 1.500 GM)",
@@ -3484,14 +3484,14 @@
     "school": "Erkenntnis",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker",
       "Paladin",
       "Waldläufer"
     ],
     "contents": [
-      "section | Erkenntniszauber 1. Grades | PHB 2024",
+      "section | Erkenntniszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion oder Ritual",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (ein Eibenblatt)",
@@ -3513,14 +3513,14 @@
     "school": "Nekromantie",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Zaubertrick der Nekromantie | PHB 2024",
+      "section | Zaubertrick der Nekromantie | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G",
@@ -3543,13 +3543,13 @@
     "school": "Bann",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Kleriker",
       "Magier"
     ],
     "contents": [
-      "section | Bannzauber 3. Grades | PHB 2024",
+      "section | Bannzauber 3. Grades | SRD521",
       "property | Zeitaufwand | 1 Stunde",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (Diamantpulver im Wert von mindestens 200 GM, das der Zauber verbraucht)",
@@ -3577,12 +3577,12 @@
     "school": "Erkenntnis",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker"
     ],
     "contents": [
-      "section | Zaubertrick der Erkenntnis | PHB 2024",
+      "section | Zaubertrick der Erkenntnis | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G",
@@ -3603,11 +3603,11 @@
     "school": "Verwandlung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Paladin"
     ],
     "contents": [
-      "section | Verwandlungszauber 1. Grades | PHB 2024",
+      "section | Verwandlungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -3628,11 +3628,11 @@
     "school": "Hervorrufung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Paladin"
     ],
     "contents": [
-      "section | Hervorrufungszauber 1. Grades | PHB 2024",
+      "section | Hervorrufungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion, die du sofort ausführst, wenn du ein Ziel mit einer Nahkampfwaffe oder einem waffenlosen Angriff getroffen hast",
       "property | Reichweite | Selbst",
       "property | Komponenten | V",
@@ -3655,11 +3655,11 @@
     "school": "Hervorrufung",
     "level": 7,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker"
     ],
     "contents": [
-      "section | Hervorrufungszauber 7. Grades | PHB 2024",
+      "section | Hervorrufungszauber 7. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V",
@@ -3685,12 +3685,12 @@
     "school": "Beschwörung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Waldläufer"
     ],
     "contents": [
-      "section | Beschwörungszauber 1. Grades | PHB 2024",
+      "section | Beschwörungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (ein Mistelzweig)",
@@ -3711,12 +3711,12 @@
     "school": "Bann",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker",
       "Paladin"
     ],
     "contents": [
-      "section | Bannzauber 5. Grades | PHB 2024",
+      "section | Bannzauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (Silber- und Eisenpulver)",
@@ -3739,12 +3739,12 @@
     "school": "Erkenntnis",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker",
       "Paladin"
     ],
     "contents": [
-      "section | Erkenntniszauber 1. Grades | PHB 2024",
+      "section | Erkenntniszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -3766,13 +3766,13 @@
     "school": "Beschwörung",
     "level": 8,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Beschwörungszauber 8. Grades | PHB 2024",
+      "section | Beschwörungszauber 8. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | S",
@@ -3795,12 +3795,12 @@
     "school": "Verwandlung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 3. Grades | PHB 2024",
+      "section | Verwandlungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (ein Span Süßholzwurzel)",
@@ -3822,13 +3822,13 @@
     "school": "Bann",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Kleriker"
     ],
     "contents": [
-      "section | Bannzauber 1. Grades | PHB 2024",
+      "section | Bannzauber 1. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V",
@@ -3851,11 +3851,11 @@
     "school": "Bann",
     "level": 8,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker"
     ],
     "contents": [
-      "section | Bannzauber 8. Grades | PHB 2024",
+      "section | Bannzauber 8. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (eine Reliquie im Wert von mindestens 1.000 GM)",
@@ -3876,11 +3876,11 @@
     "school": "Hervorrufung",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker"
     ],
     "contents": [
-      "section | Zaubertrick der Hervorrufung | PHB 2024",
+      "section | Zaubertrick der Hervorrufung | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -3903,11 +3903,11 @@
     "school": "Erkenntnis",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker"
     ],
     "contents": [
-      "section | Erkenntniszauber 5. Grades | PHB 2024",
+      "section | Erkenntniszauber 5. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute oder Ritual",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (Weihrauch)",
@@ -3930,11 +3930,11 @@
     "school": "Bann",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker"
     ],
     "contents": [
-      "section | Bannzauber 1. Grades | PHB 2024",
+      "section | Bannzauber 1. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (eine Spiegelscherbe)",
@@ -3955,12 +3955,12 @@
     "school": "Bann",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker"
     ],
     "contents": [
-      "section | Bannzauber 6. Grades | PHB 2024",
+      "section | Bannzauber 6. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -3983,13 +3983,13 @@
     "school": "Beschwörung",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Kleriker"
     ],
     "contents": [
-      "section | Beschwörungszauber 6. Grades | PHB 2024",
+      "section | Beschwörungszauber 6. Grades | SRD521",
       "property | Zeitaufwand | 10 Minuten",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (eine mit Edelsteinen verzierte Schale im Wert von mindestens 1.000 GM, die der Zauber verbraucht)",
@@ -4011,12 +4011,12 @@
     "school": "Verzauberung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Paladin"
     ],
     "contents": [
-      "section | Verzauberungszauber 1. Grades | PHB 2024",
+      "section | Verzauberungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G",
@@ -4039,14 +4039,14 @@
     "school": "Erkenntnis",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Kleriker",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Erkenntniszauber 3. Grades | PHB 2024",
+      "section | Erkenntniszauber 3. Grades | SRD521",
       "property | Zeitaufwand | 10 Minuten",
       "property | Reichweite | 1,6 Kilometer",
       "property | Komponenten | V, G, M (ein Fokus im Wert von mindestens 100 GM - entweder ein juwelenbesetztes Horn zum Hören oder ein Glasauge zum Sehen)",
@@ -4069,13 +4069,13 @@
     "school": "Hervorrufung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 1. Grades | PHB 2024",
+      "section | Hervorrufungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G, M (Zweig von einem Baum, der vom Blitz getroffen wurde)",
@@ -4100,11 +4100,11 @@
     "school": "Hervorrufung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister"
     ],
     "contents": [
-      "section | Hervorrufungszauber 1. Grades | PHB 2024",
+      "section | Hervorrufungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Reaktion, die du ausführst, wenn du Schaden durch eine Kreatur im Abstand von bis zu 18 Metern von dir erlitten hast, die du sehen kannst",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -4127,11 +4127,11 @@
     "school": "Beschwörung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister"
     ],
     "contents": [
-      "section | Beschwörungszauber 3. Grades | PHB 2024",
+      "section | Beschwörungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 45 Meter",
       "property | Komponenten | V, G, M (ein eingelegtes Tentakel)",
@@ -4154,11 +4154,11 @@
     "school": "Beschwörung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker"
     ],
     "contents": [
-      "section | Beschwörungszauber 4. Grades | PHB 2024",
+      "section | Beschwörungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V",
@@ -4179,14 +4179,14 @@
     "school": "Illusion",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Illusionszauber 3. Grades | PHB 2024",
+      "section | Illusionszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G, M (eine Prise Konfetti)",
@@ -4207,12 +4207,12 @@
     "school": "Erkenntnis",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier"
     ],
     "contents": [
-      "section | Erkenntniszauber 1. Grades | PHB 2024",
+      "section | Erkenntniszauber 1. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute oder Ritual",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (eine Perle im Wert von mindestens 100 GM)",
@@ -4233,13 +4233,13 @@
     "school": "Illusion",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier"
     ],
     "contents": [
-      "section | Illusionszauber 1. Grades | PHB 2024",
+      "section | Illusionszauber 1. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute oder Ritual",
       "property | Reichweite | Berührung",
       "property | Komponenten | G, M (Tinte im Wert von mindestens 10 GM, die der Zauber verbraucht)",
@@ -4262,13 +4262,13 @@
     "school": "Beschwörung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker",
       "Zauberer"
     ],
     "contents": [
-      "section | Beschwörungszauber 5. Grades | PHB 2024",
+      "section | Beschwörungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 90 Meter",
       "property | Komponenten | V, G, M (eine Heuschrecke)",
@@ -4291,11 +4291,11 @@
     "school": "Beschwörung",
     "level": 8,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Beschwörungszauber 8. Grades | PHB 2024",
+      "section | Beschwörungszauber 8. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -4317,12 +4317,12 @@
     "school": "Hervorrufung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier"
     ],
     "contents": [
-      "section | Hervorrufungszauber 5. Grades | PHB 2024",
+      "section | Hervorrufungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G, M (eine Prise Phosphor)",
@@ -4345,13 +4345,13 @@
     "school": "Nekromantie",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Zaubertrick der Nekromantie | PHB 2024",
+      "section | Zaubertrick der Nekromantie | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G",
@@ -4373,13 +4373,13 @@
     "school": "Hervorrufung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 5. Grades | PHB 2024",
+      "section | Hervorrufungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (ein kleiner Kegel aus Kristall oder Glas)",
@@ -4401,12 +4401,12 @@
     "school": "Hervorrufung",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Zaubertrick der Hervorrufung | PHB 2024",
+      "section | Zaubertrick der Hervorrufung | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -4428,12 +4428,12 @@
     "school": "Hervorrufung",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 6. Grades | PHB 2024",
+      "section | Hervorrufungszauber 6. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 45 Meter",
       "property | Komponenten | V, G, M (drei Silbernadeln)",
@@ -4456,14 +4456,14 @@
     "school": "Bann",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Zaubertrick des Banns | PHB 2024",
+      "section | Zaubertrick des Banns | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -4483,11 +4483,11 @@
     "school": "Hervorrufung",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker"
     ],
     "contents": [
-      "section | Hervorrufungszauber 6. Grades | PHB 2024",
+      "section | Hervorrufungszauber 6. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 27 Meter",
       "property | Komponenten | V, G",
@@ -4508,11 +4508,11 @@
     "school": "Nekromantie",
     "level": 8,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Nekromantiezauber 8. Grades | PHB 2024",
+      "section | Nekromantiezauber 8. Grades | SRD521",
       "property | Zeitaufwand | 1 Stunde",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (ein Diamant im Wert von mindestens 1.000 GM, den der Zauber verbraucht, und ein verschließbares Gefäß im Wert von mindestens 2.000 GM, das groß genug ist, um die zu klonende Kreatur aufzunehmen)",
@@ -4533,13 +4533,13 @@
     "school": "Verwandlung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 2. Grades | PHB 2024",
+      "section | Verwandlungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V",
@@ -4561,11 +4561,11 @@
     "school": "Beschwörung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Beschwörungszauber 4. Grades | PHB 2024",
+      "section | Beschwörungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 27 Meter",
       "property | Komponenten | V, G, M (eine Schatulle im Wert von mindestens 400 GM)",
@@ -4588,12 +4588,12 @@
     "school": "Erkenntnis",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier"
     ],
     "contents": [
-      "section | Erkenntniszauber 5. Grades | PHB 2024",
+      "section | Erkenntniszauber 5. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute oder Ritual",
       "property | Reichweite | Selbst",
       "property | Komponenten | V",
@@ -4614,7 +4614,7 @@
     "school": "Erkenntnis",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Kleriker",
@@ -4623,7 +4623,7 @@
       "Waldläufer"
     ],
     "contents": [
-      "section | Erkenntniszauber 4. Grades | PHB 2024",
+      "section | Erkenntniszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (etwas Fell von einem Bluthund)",
@@ -4645,13 +4645,13 @@
     "school": "Bann",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker",
       "Magier",
       "Paladin"
     ],
     "contents": [
-      "section | Bannzauber 5. Grades | PHB 2024",
+      "section | Bannzauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V",
@@ -4671,14 +4671,14 @@
     "school": "Beschwörung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Beschwörungszauber 5. Grades | PHB 2024",
+      "section | Beschwörungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute",
       "property | Reichweite | 3 Meter",
       "property | Komponenten | V, M (seltene Tinten im Wert von mindestens 50 GM, die der Zauber verbraucht)",
@@ -4701,11 +4701,11 @@
     "school": "Hervorrufung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Paladin"
     ],
     "contents": [
-      "section | Hervorrufungszauber 3. Grades | PHB 2024",
+      "section | Hervorrufungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V",
@@ -4725,14 +4725,14 @@
     "school": "Verzauberung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verzauberungszauber 2. Grades | PHB 2024",
+      "section | Verzauberungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G",
@@ -4754,12 +4754,12 @@
     "school": "Bann",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Bannzauber 6. Grades | PHB 2024",
+      "section | Bannzauber 6. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (eine Glasperle)",
@@ -4782,14 +4782,14 @@
     "school": "Verwandlung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Magier",
       "Waldläufer"
     ],
     "contents": [
-      "section | Verwandlungszauber 1. Grades | PHB 2024",
+      "section | Verwandlungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (eine Prise Erde)",
@@ -4811,13 +4811,13 @@
     "school": "Illusion",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Illusionszauber 1. Grades | PHB 2024",
+      "section | Illusionszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G, M (ein Stück Vlies)",
@@ -4840,11 +4840,11 @@
     "school": "Nekromantie",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker"
     ],
     "contents": [
-      "section | Nekromantiezauber 6. Grades | PHB 2024",
+      "section | Nekromantiezauber 6. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -4865,11 +4865,11 @@
     "school": "Hervorrufung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker"
     ],
     "contents": [
-      "section | Hervorrufungszauber 1. Grades | PHB 2024",
+      "section | Hervorrufungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G",
@@ -4891,11 +4891,11 @@
     "school": "Beschwörung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Beschwörungszauber 4. Grades | PHB 2024",
+      "section | Beschwörungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (eine Truhe in den Abmessungen 90 mal 60 mal 60 Zentimeter aus seltenen Materialien im Wert von mindestens 5.000 GM und eine winzige Nachbildung der Truhe aus den gleichen Materialien im Wert von mindestens 50 GM)",
@@ -4917,12 +4917,12 @@
     "school": "Hervorrufung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier"
     ],
     "contents": [
-      "section | Hervorrufungszauber 3. Grades | PHB 2024",
+      "section | Hervorrufungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute oder Ritual",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (eine Kristallperle)",
@@ -4946,11 +4946,11 @@
     "school": "Bann",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker"
     ],
     "contents": [
-      "section | Bannzauber 3. Grades | PHB 2024",
+      "section | Bannzauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G",
@@ -4970,14 +4970,14 @@
     "school": "Hervorrufung",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Kleriker",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Zaubertrick der Hervorrufung | PHB 2024",
+      "section | Zaubertrick der Hervorrufung | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, M (ein Glühwürmchen oder phosphoreszierendes Moos)",
@@ -4998,13 +4998,13 @@
     "school": "Illusion",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Illusionszauber 2. Grades | PHB 2024",
+      "section | Illusionszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G, M (ein Stück Vlies)",
@@ -5027,13 +5027,13 @@
     "school": "Illusion",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Illusionszauber 4. Grades | PHB 2024",
+      "section | Illusionszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G",
@@ -5053,14 +5053,14 @@
     "school": "Illusion",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Illusionszauber 3. Grades | PHB 2024",
+      "section | Illusionszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G, M (ein Stück Vlies)",
@@ -5085,7 +5085,7 @@
     "school": "Bann",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Hexenmeister",
@@ -5096,7 +5096,7 @@
       "Zauberer"
     ],
     "contents": [
-      "section | Bannzauber 3. Grades | PHB 2024",
+      "section | Bannzauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G",
@@ -5118,7 +5118,7 @@
     "school": "Erkenntnis",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Hexenmeister",
       "Kleriker",
@@ -5128,7 +5128,7 @@
       "Zauberer"
     ],
     "contents": [
-      "section | Erkenntniszauber 1. Grades | PHB 2024",
+      "section | Erkenntniszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion oder Ritual",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -5149,14 +5149,14 @@
     "school": "Beschwörung",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Zaubertrick der Beschwörung | PHB 2024",
+      "section | Zaubertrick der Beschwörung | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G",
@@ -5179,12 +5179,12 @@
     "school": "Bann",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Bannzauber 1. Grades | PHB 2024",
+      "section | Bannzauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (ein Stück gehärtetes Leder)",
@@ -5204,14 +5204,14 @@
     "school": "Verwandlung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Paladin",
       "Waldläufer",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 2. Grades | PHB 2024",
+      "section | Verwandlungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G",
@@ -5233,12 +5233,12 @@
     "school": "Illusion",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier"
     ],
     "contents": [
-      "section | Illusionszauber 2. Grades | PHB 2024",
+      "section | Illusionszauber 2. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute oder Ritual",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (Jadestaub im Wert von mindestens 10 GM, den der Zauber verbraucht)",
@@ -5260,11 +5260,11 @@
     "school": "Nekromantie",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Nekromantiezauber 6. Grades | PHB 2024",
+      "section | Nekromantiezauber 6. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (ein Edelstein, ein Kristall oder eine Reliquie im Wert von mindestens 500 GM)",
@@ -5290,12 +5290,12 @@
     "school": "Hervorrufung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 1. Grades | PHB 2024",
+      "section | Hervorrufungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G",
@@ -5317,13 +5317,13 @@
     "school": "Verzauberung",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verzauberungszauber 6. Grades | PHB 2024",
+      "section | Verzauberungszauber 6. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, M (eine Schlangenzunge)",
@@ -5346,12 +5346,12 @@
     "school": "Bann",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Kleriker"
     ],
     "contents": [
-      "section | Bannzauber 3. Grades | PHB 2024",
+      "section | Bannzauber 3. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V",
@@ -5373,11 +5373,11 @@
     "school": "Bann",
     "level": 9,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker"
     ],
     "contents": [
-      "section | Bannzauber 9. Grades | PHB 2024",
+      "section | Bannzauber 9. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -5397,13 +5397,13 @@
     "school": "Bann",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Kleriker"
     ],
     "contents": [
-      "section | Bannzauber 5. Grades | PHB 2024",
+      "section | Bannzauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -5425,11 +5425,11 @@
     "school": "Hervorrufung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Hervorrufungszauber 2. Grades | PHB 2024",
+      "section | Hervorrufungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 27 Meter",
       "property | Komponenten | V, G, M (ein zerstoßenes Rhabarberblatt)",
@@ -5451,12 +5451,12 @@
     "school": "Verwandlung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide"
     ],
     "contents": [
-      "section | Verwandlungszauber 2. Grades | PHB 2024",
+      "section | Verwandlungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G, M (ein Stück Eisen und eine Flamme)",
@@ -5479,12 +5479,12 @@
     "school": "Hervorrufung",
     "level": 9,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 9. Grades | PHB 2024",
+      "section | Hervorrufungszauber 9. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 1,6 Kilometer",
       "property | Komponenten | V, G",
@@ -5505,13 +5505,13 @@
     "school": "Verwandlung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Waldläufer"
     ],
     "contents": [
-      "section | Verwandlungszauber 3. Grades | PHB 2024",
+      "section | Verwandlungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -5534,13 +5534,13 @@
     "school": "Verwandlung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker",
       "Waldläufer"
     ],
     "contents": [
-      "section | Verwandlungszauber 3. Grades | PHB 2024",
+      "section | Verwandlungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion oder Ritual",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G",
@@ -5562,14 +5562,14 @@
     "school": "Erkenntnis",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Hexenmeister",
       "Waldläufer"
     ],
     "contents": [
-      "section | Erkenntniszauber 1. Grades | PHB 2024",
+      "section | Erkenntniszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion oder Ritual",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -5590,13 +5590,13 @@
     "school": "Nekromantie",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Kleriker",
       "Magier"
     ],
     "contents": [
-      "section | Nekromantiezauber 3. Grades | PHB 2024",
+      "section | Nekromantiezauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 3 Meter",
       "property | Komponenten | V, G, M (brennender Weihrauch)",
@@ -5617,11 +5617,11 @@
     "school": "Hervorrufung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide"
     ],
     "contents": [
-      "section | Hervorrufungszauber 2. Grades | PHB 2024",
+      "section | Hervorrufungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G, M (Blatt einer Mondsamenpflanze)",
@@ -5644,14 +5644,14 @@
     "school": "Verzauberung",
     "level": 8,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verzauberungszauber 8. Grades | PHB 2024",
+      "section | Verzauberungszauber 8. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -5675,7 +5675,7 @@
     "school": "Verzauberung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Hexenmeister",
@@ -5683,7 +5683,7 @@
       "Zauberer"
     ],
     "contents": [
-      "section | Verzauberungszauber 4. Grades | PHB 2024",
+      "section | Verzauberungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G",
@@ -5705,14 +5705,14 @@
     "school": "Verzauberung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verzauberungszauber 5. Grades | PHB 2024",
+      "section | Verzauberungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 27 Meter",
       "property | Komponenten | V, G, M (ein gerades Stück Eisen)",
@@ -5734,12 +5734,12 @@
     "school": "Beschwörung",
     "level": 7,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier"
     ],
     "contents": [
-      "section | Beschwörungszauber 7. Grades | PHB 2024",
+      "section | Beschwörungszauber 7. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute",
       "property | Reichweite | 90 Meter",
       "property | Komponenten | V, G, M (eine Miniatur-Tür im Wert von mindestens 15 GM)",
@@ -5763,11 +5763,11 @@
     "school": "Bann",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Bannzauber 4. Grades | PHB 2024",
+      "section | Bannzauber 4. Grades | SRD521",
       "property | Zeitaufwand | 10 Minuten",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G, M (ein dünnes Bleiblech)",
@@ -5797,12 +5797,12 @@
     "school": "Hervorrufung",
     "level": 7,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier"
     ],
     "contents": [
-      "section | Hervorrufungszauber 7. Grades | PHB 2024",
+      "section | Hervorrufungszauber 7. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 27 Meter",
       "property | Komponenten | V, G, M (ein Miniaturschwert im Wert von mindestens 250 GM)",
@@ -5823,11 +5823,11 @@
     "school": "Beschwörung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Beschwörungszauber 4. Grades | PHB 2024",
+      "section | Beschwörungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (eine Silberpfeife)",
@@ -5850,12 +5850,12 @@
     "school": "Beschwörung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker",
       "Paladin"
     ],
     "contents": [
-      "section | Beschwörungszauber 3. Grades | PHB 2024",
+      "section | Beschwörungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G",
@@ -5875,13 +5875,13 @@
     "school": "Verwandlung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker",
       "Paladin"
     ],
     "contents": [
-      "section | Verwandlungszauber 1. Grades | PHB 2024",
+      "section | Verwandlungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion oder Ritual",
       "property | Reichweite | 3 Meter",
       "property | Komponenten | V, G",
@@ -5901,13 +5901,13 @@
     "school": "Beschwörung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Beschwörungszauber 2. Grades | PHB 2024",
+      "section | Beschwörungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V",
@@ -5927,14 +5927,14 @@
     "school": "Beschwörung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Magier",
       "Waldläufer",
       "Zauberer"
     ],
     "contents": [
-      "section | Beschwörungszauber 1. Grades | PHB 2024",
+      "section | Beschwörungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G",
@@ -5956,12 +5956,12 @@
     "school": "Beschwörung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Beschwörungszauber 2. Grades | PHB 2024",
+      "section | Beschwörungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G, M (einige Spinnweben)",
@@ -5985,11 +5985,11 @@
     "school": "Bann",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Bannzauber 6. Grades | PHB 2024",
+      "section | Bannzauber 6. Grades | SRD521",
       "property | Zeitaufwand | 10 Minuten",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (eine mit Edelsteinen verzierte Statuette von dir im Wert von mindestens 1.500 GM)",
@@ -6011,11 +6011,11 @@
     "school": "Illusion",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Illusionszauber 2. Grades | PHB 2024",
+      "section | Illusionszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (ein kleines Quadrat aus Seide)",
@@ -6037,12 +6037,12 @@
     "school": "Hervorrufung",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 6. Grades | PHB 2024",
+      "section | Hervorrufungszauber 6. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 90 Meter",
       "property | Komponenten | V, G, M (eine Miniatur-Kristallkugel)",
@@ -6066,11 +6066,11 @@
     "school": "Bann",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Bannzauber 4. Grades | PHB 2024",
+      "section | Bannzauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (eine Glaskugel)",
@@ -6093,12 +6093,12 @@
     "school": "Verzauberung",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier"
     ],
     "contents": [
-      "section | Verzauberungszauber 6. Grades | PHB 2024",
+      "section | Verzauberungszauber 6. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V",
@@ -6120,13 +6120,13 @@
     "school": "Verzauberung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verzauberungszauber 5. Grades | PHB 2024",
+      "section | Verzauberungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -6150,7 +6150,7 @@
     "school": "Verzauberung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Hexenmeister",
@@ -6158,7 +6158,7 @@
       "Zauberer"
     ],
     "contents": [
-      "section | Verzauberungszauber 1. Grades | PHB 2024",
+      "section | Verzauberungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G",
@@ -6180,7 +6180,7 @@
     "school": "Verzauberung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Hexenmeister",
@@ -6189,7 +6189,7 @@
       "Zauberer"
     ],
     "contents": [
-      "section | Verzauberungszauber 2. Grades | PHB 2024",
+      "section | Verzauberungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G, M (ein gerades Stück Eisen)",
@@ -6211,11 +6211,11 @@
     "school": "Beschwörung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Waldläufer"
     ],
     "contents": [
-      "section | Beschwörungszauber 5. Grades | PHB 2024",
+      "section | Beschwörungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 45 Meter",
       "property | Komponenten | V, G, M (eine Nah- oder Fernkampfwaffe im Wert von mindestens 1 KM)",
@@ -6235,11 +6235,11 @@
     "school": "Verwandlung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Waldläufer"
     ],
     "contents": [
-      "section | Verwandlungszauber 2. Grades | PHB 2024",
+      "section | Verwandlungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (ein Ziergeflecht)",
@@ -6263,11 +6263,11 @@
     "school": "Beschwörung",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide"
     ],
     "contents": [
-      "section | Beschwörungszauber 6. Grades | PHB 2024",
+      "section | Beschwörungszauber 6. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 3 Meter",
       "property | Komponenten | V, G",
@@ -6288,13 +6288,13 @@
     "school": "Verwandlung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Waldläufer"
     ],
     "contents": [
-      "section | Verwandlungszauber 3. Grades | PHB 2024",
+      "section | Verwandlungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion (Mehr Wachstum) oder 8 Stunden (Mehr Ertrag)",
       "property | Reichweite | 45 Meter",
       "property | Komponenten | V, G",
@@ -6316,12 +6316,12 @@
     "school": "Hervorrufung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide"
     ],
     "contents": [
-      "section | Hervorrufungszauber 4. Grades | PHB 2024",
+      "section | Hervorrufungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -6343,12 +6343,12 @@
     "school": "Erkenntnis",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier"
     ],
     "contents": [
-      "section | Erkenntniszauber 5. Grades | PHB 2024",
+      "section | Erkenntniszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion oder Ritual",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (zwei Eier)",
@@ -6369,13 +6369,13 @@
     "school": "Verwandlung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 1. Grades | PHB 2024",
+      "section | Verwandlungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -6395,12 +6395,12 @@
     "school": "Verzauberung",
     "level": 8,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister"
     ],
     "contents": [
-      "section | Verzauberungszauber 8. Grades | PHB 2024",
+      "section | Verzauberungszauber 8. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V",
@@ -6420,13 +6420,13 @@
     "school": "Hervorrufung",
     "level": 7,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 7. Grades | PHB 2024",
+      "section | Hervorrufungszauber 7. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -6455,12 +6455,12 @@
     "school": "Bann",
     "level": 9,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier"
     ],
     "contents": [
-      "section | Bannzauber 9. Grades | PHB 2024",
+      "section | Bannzauber 9. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -6491,13 +6491,13 @@
     "school": "Verwandlung",
     "level": 7,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Kleriker"
     ],
     "contents": [
-      "section | Verwandlungszauber 7. Grades | PHB 2024",
+      "section | Verwandlungszauber 7. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (eine Gebetsmühle)",
@@ -6517,11 +6517,11 @@
     "school": "Beschwörung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Paladin"
     ],
     "contents": [
-      "section | Beschwörungszauber 2. Grades | PHB 2024",
+      "section | Beschwörungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G",
@@ -6546,11 +6546,11 @@
     "school": "Beschwörung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide"
     ],
     "contents": [
-      "section | Beschwörungszauber 4. Grades | PHB 2024",
+      "section | Beschwörungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -6573,12 +6573,12 @@
     "school": "Verwandlung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Waldläufer"
     ],
     "contents": [
-      "section | Verwandlungszauber 2. Grades | PHB 2024",
+      "section | Verwandlungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (eine Handvoll Rinde)",
@@ -6598,11 +6598,11 @@
     "school": "Bann",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister"
     ],
     "contents": [
-      "section | Bannzauber 1. Grades | PHB 2024",
+      "section | Bannzauber 1. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (eine blaue Glasscherbe)",
@@ -6624,13 +6624,13 @@
     "school": "Erkenntnis",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Kleriker",
       "Magier"
     ],
     "contents": [
-      "section | Erkenntniszauber 5. Grades | PHB 2024",
+      "section | Erkenntniszauber 5. Grades | SRD521",
       "property | Zeitaufwand | 10 Minuten",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (Weihrauch im Wert von mindestens 250 GM, den der Zauber verbraucht, und vier Stücke Elfenbein im Wert von jeweils mindestens 50 GM)",
@@ -6652,13 +6652,13 @@
     "school": "Nekromantie",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker",
       "Magier",
       "Paladin"
     ],
     "contents": [
-      "section | Nekromantiezauber 2. Grades | PHB 2024",
+      "section | Nekromantiezauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion oder Ritual",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (2 Kupfermünzen, die der Zauber verbraucht)",
@@ -6679,12 +6679,12 @@
     "school": "Hervorrufung",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Zaubertrick der Hervorrufung | PHB 2024",
+      "section | Zaubertrick der Hervorrufung | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -6706,11 +6706,11 @@
     "school": "Hervorrufung",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister"
     ],
     "contents": [
-      "section | Zaubertrick der Hervorrufung | PHB 2024",
+      "section | Zaubertrick der Hervorrufung | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G",
@@ -6732,14 +6732,14 @@
     "school": "Illusion",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Hexenmeister",
       "Magier"
     ],
     "contents": [
-      "section | Illusionszauber 4. Grades | PHB 2024",
+      "section | Illusionszauber 4. Grades | SRD521",
       "property | Zeitaufwand | 10 Minuten",
       "property | Reichweite | 90 Meter",
       "property | Komponenten | V, G, M (ein Pilz)",
@@ -6760,12 +6760,12 @@
     "school": "Bann",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Bannzauber 1. Grades | PHB 2024",
+      "section | Bannzauber 1. Grades | SRD521",
       "property | Zeitaufwand | Reaktion, die du ausführst, wenn du von einem Angriffswurf getroffen oder als Ziel des Zaubers Magisches Geschoss ausgewählt wirst",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -6785,12 +6785,12 @@
     "school": "Bann",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker",
       "Paladin"
     ],
     "contents": [
-      "section | Bannzauber 1. Grades | PHB 2024",
+      "section | Bannzauber 1. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G, M (eine Gebetsschriftrolle)",
@@ -6810,13 +6810,13 @@
     "school": "Verzauberung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verzauberungszauber 1. Grades | PHB 2024",
+      "section | Verzauberungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G, M (eine Prise Sand oder Rosenblütenblätter)",
@@ -6837,12 +6837,12 @@
     "school": "Beschwörung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Waldläufer"
     ],
     "contents": [
-      "section | Beschwörungszauber 4. Grades | PHB 2024",
+      "section | Beschwörungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -6866,12 +6866,12 @@
     "school": "Beschwörung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Beschwörungszauber 1. Grades | PHB 2024",
+      "section | Beschwörungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G, M (ein Stück Schweineschwarte oder Butter)",
@@ -6892,13 +6892,13 @@
     "school": "Beschwörung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Beschwörungszauber 3. Grades | PHB 2024",
+      "section | Beschwörungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 45 Meter",
       "property | Komponenten | V, G, M (ein Miniaturregenschirm)",
@@ -6920,11 +6920,11 @@
     "school": "Verwandlung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Waldläufer"
     ],
     "contents": [
-      "section | Verwandlungszauber 5. Grades | PHB 2024",
+      "section | Verwandlungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (ein Köcher im Wert von mindestens 1 GM)",
@@ -6945,12 +6945,12 @@
     "school": "Hervorrufung",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Zaubertrick der Hervorrufung | PHB 2024",
+      "section | Zaubertrick der Hervorrufung | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G",
@@ -6972,11 +6972,11 @@
     "school": "Beschwörung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Waldläufer"
     ],
     "contents": [
-      "section | Beschwörungszauber 3. Grades | PHB 2024",
+      "section | Beschwörungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (eine Nah- oder Fernkampfwaffe im Wert von mindestens 1 KM)",
@@ -6998,7 +6998,7 @@
     "school": "Bann",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker",
       "Magier",
@@ -7006,7 +7006,7 @@
       "Zauberer"
     ],
     "contents": [
-      "section | Bannzauber 3. Grades | PHB 2024",
+      "section | Bannzauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G",
@@ -7026,14 +7026,14 @@
     "school": "Bann",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker",
       "Paladin",
       "Waldläufer"
     ],
     "contents": [
-      "section | Bannzauber 2. Grades | PHB 2024",
+      "section | Bannzauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G",
@@ -7053,7 +7053,7 @@
     "school": "Bann",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Hexenmeister",
       "Kleriker",
@@ -7061,7 +7061,7 @@
       "Paladin"
     ],
     "contents": [
-      "section | Bannzauber 1. Grades | PHB 2024",
+      "section | Bannzauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (eine Flasche Weihwasser im Wert von mindestens 25 GM, die der Zauber verbraucht)",
@@ -7081,12 +7081,12 @@
     "school": "Bann",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker",
       "Paladin"
     ],
     "contents": [
-      "section | Bannzauber 2. Grades | PHB 2024",
+      "section | Bannzauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (ein Paar Platinringe im Wert von jeweils mindestens 50 GM, die du und das Ziel für die Wirkungsdauer tragen müsst)",
@@ -7107,11 +7107,11 @@
     "school": "Beschwörung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker"
     ],
     "contents": [
-      "section | Beschwörungszauber 3. Grades | PHB 2024",
+      "section | Beschwörungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (eine Gebetsschriftrolle)",
@@ -7135,11 +7135,11 @@
     "school": "Bann",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide"
     ],
     "contents": [
-      "section | Bannzauber 5. Grades | PHB 2024",
+      "section | Bannzauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -7160,14 +7160,14 @@
     "school": "Bann",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Kleriker",
       "Magier",
       "Paladin"
     ],
     "contents": [
-      "section | Bannzauber 3. Grades | PHB 2024",
+      "section | Bannzauber 3. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute",
       "property | Reichweite | 3 Meter",
       "property | Komponenten | V, G, M (Salz und Silberpulver im Wert von mindestens 100 GM, das der Zauber verbraucht)",
@@ -7194,12 +7194,12 @@
     "school": "Beschwörung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Magier"
     ],
     "contents": [
-      "section | Beschwörungszauber 4. Grades | PHB 2024",
+      "section | Beschwörungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -7222,7 +7222,7 @@
     "school": "Bann",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Kleriker",
@@ -7230,7 +7230,7 @@
       "Waldläufer"
     ],
     "contents": [
-      "section | Bannzauber 2. Grades | PHB 2024",
+      "section | Bannzauber 2. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G",
@@ -7250,12 +7250,12 @@
     "school": "Nekromantie",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier"
     ],
     "contents": [
-      "section | Nekromantiezauber 2. Grades | PHB 2024",
+      "section | Nekromantiezauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -7276,12 +7276,12 @@
     "school": "Verwandlung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 2. Grades | PHB 2024",
+      "section | Verwandlungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G, M (eine Metallfeder)",
@@ -7304,13 +7304,13 @@
     "school": "Verwandlung",
     "level": 7,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 7. Grades | PHB 2024",
+      "section | Verwandlungszauber 7. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 30 Meter",
       "property | Komponenten | V, G, M (ein Magnetstein und Eisenspäne)",
@@ -7331,12 +7331,12 @@
     "school": "Verzauberung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker",
       "Paladin"
     ],
     "contents": [
-      "section | Verzauberungszauber 1. Grades | PHB 2024",
+      "section | Verzauberungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (ein heiliges Symbol im Wert von mindestens 5 GM)",
@@ -7358,11 +7358,11 @@
     "school": "Verwandlung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Verwandlungszauber 2. Grades | PHB 2024",
+      "section | Verwandlungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (ein Stück Seil)",
@@ -7384,13 +7384,13 @@
     "school": "Illusion",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Illusionszauber 1. Grades | PHB 2024",
+      "section | Illusionszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -7412,12 +7412,12 @@
     "school": "Hervorrufung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 2. Grades | PHB 2024",
+      "section | Hervorrufungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G",
@@ -7439,11 +7439,11 @@
     "school": "Hervorrufung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Paladin"
     ],
     "contents": [
-      "section | Hervorrufungszauber 1. Grades | PHB 2024",
+      "section | Hervorrufungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion, die du sofort ausführst, wenn du ein Ziel mit einer Nahkampfwaffe oder einem waffenlosen Angriff getroffen hast",
       "property | Reichweite | Selbst",
       "property | Komponenten | V",
@@ -7465,11 +7465,11 @@
     "school": "Verwandlung",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide"
     ],
     "contents": [
-      "section | Zaubertrick der Verwandlung | PHB 2024",
+      "section | Zaubertrick der Verwandlung | SRD521",
       "property | Zeitaufwand | Bonusaktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (ein Mistelzweig)",
@@ -7492,11 +7492,11 @@
     "school": "Illusion",
     "level": 7,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Illusionszauber 7. Grades | PHB 2024",
+      "section | Illusionszauber 7. Grades | SRD521",
       "property | Zeitaufwand | 12 Stunden",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (Rubinpulver im Wert von mindestens 1.500 GM, das der Zauber verbraucht)",
@@ -7519,14 +7519,14 @@
     "school": "Hervorrufung",
     "level": 8,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 8. Grades | PHB 2024",
+      "section | Hervorrufungszauber 8. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 45 Meter",
       "property | Komponenten | V, G, M (ein Stück Sonnenstein)",
@@ -7548,14 +7548,14 @@
     "school": "Hervorrufung",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 6. Grades | PHB 2024",
+      "section | Hervorrufungszauber 6. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (eine Lupe)",
@@ -7577,12 +7577,12 @@
     "school": "Hervorrufung",
     "level": 7,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 7. Grades | PHB 2024",
+      "section | Hervorrufungszauber 7. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 45 Meter",
       "property | Komponenten | V, G, M (eine Kugel aus Fledermaus-Guano und Schwefel)",
@@ -7607,14 +7607,14 @@
     "school": "Illusion",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Illusionszauber 2. Grades | PHB 2024",
+      "section | Illusionszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -7636,13 +7636,13 @@
     "school": "Verwandlung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 2. Grades | PHB 2024",
+      "section | Verwandlungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (etwas Pech und eine Spinne)",
@@ -7664,14 +7664,14 @@
     "school": "Erkenntnis",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Erkenntniszauber 1. Grades | PHB 2024",
+      "section | Erkenntniszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion oder Ritual",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (je eine Prise Ruß und Salz)",
@@ -7691,14 +7691,14 @@
     "school": "Verwandlung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Magier",
       "Waldläufer",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 1. Grades | PHB 2024",
+      "section | Verwandlungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (Hinterbein einer Heuschrecke)",
@@ -7720,13 +7720,13 @@
     "school": "Illusion",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Illusionszauber 1. Grades | PHB 2024",
+      "section | Illusionszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (eine Prise bunter Sand)",
@@ -7746,12 +7746,12 @@
     "school": "Bann",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Waldläufer"
     ],
     "contents": [
-      "section | Bannzauber 2. Grades | PHB 2024",
+      "section | Bannzauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (Asche eines Mistelzweigs)",
@@ -7771,12 +7771,12 @@
     "school": "Beschwörung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Waldläufer"
     ],
     "contents": [
-      "section | Beschwörungszauber 5. Grades | PHB 2024",
+      "section | Beschwörungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | G, M (eine Nahkampfwaffe im Wert von mindestens 1 SM)",
@@ -7796,13 +7796,13 @@
     "school": "Verwandlung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker",
       "Magier"
     ],
     "contents": [
-      "section | Verwandlungszauber 4. Grades | PHB 2024",
+      "section | Verwandlungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (weicher Lehm)",
@@ -7822,14 +7822,14 @@
     "school": "Verwandlung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Magier",
       "Waldläufer",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 4. Grades | PHB 2024",
+      "section | Verwandlungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (Diamantstaub im Wert von mindestens 100 GM, den der Zauber verbraucht)",
@@ -7849,13 +7849,13 @@
     "school": "Hervorrufung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 5. Grades | PHB 2024",
+      "section | Hervorrufungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G, M (ein Granitwürfel)",
@@ -7880,12 +7880,12 @@
     "school": "Hervorrufung",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide"
     ],
     "contents": [
-      "section | Zaubertrick der Hervorrufung | PHB 2024",
+      "section | Zaubertrick der Hervorrufung | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -7907,13 +7907,13 @@
     "school": "Illusion",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Kleriker",
       "Waldläufer"
     ],
     "contents": [
-      "section | Illusionszauber 2. Grades | PHB 2024",
+      "section | Illusionszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion oder Ritual",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G",
@@ -7934,13 +7934,13 @@
     "school": "Beschwörung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Beschwörungszauber 3. Grades | PHB 2024",
+      "section | Beschwörungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 27 Meter",
       "property | Komponenten | V, G, M (ein faules Ei)",
@@ -7961,12 +7961,12 @@
     "school": "Nekromantie",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Nekromantiezauber 1. Grades | PHB 2024",
+      "section | Nekromantiezauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -7988,11 +7988,11 @@
     "school": "Verwandlung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Paladin"
     ],
     "contents": [
-      "section | Verwandlungszauber 2. Grades | PHB 2024",
+      "section | Verwandlungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion, die du sofort ausführst, wenn du eine Kreatur mit einer Nahkampfwaffe oder einem waffenlosen Angriff getroffen hast",
       "property | Reichweite | Selbst",
       "property | Komponenten | V",
@@ -8014,11 +8014,11 @@
     "school": "Beschwörung",
     "level": 9,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide"
     ],
     "contents": [
-      "section | Beschwörungszauber 9. Grades | PHB 2024",
+      "section | Beschwörungszauber 9. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 1,6 Kilometer",
       "property | Komponenten | V, G",
@@ -8043,14 +8043,14 @@
     "school": "Bann",
     "level": 7,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Kleriker",
       "Magier"
     ],
     "contents": [
-      "section | Bannzauber 7. Grades | PHB 2024",
+      "section | Bannzauber 7. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (Diamantpulver im Wert von mindestens 1.000 GM, das der Zauber verbraucht)",
@@ -8081,14 +8081,14 @@
     "school": "Verzauberung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verzauberungszauber 5. Grades | PHB 2024",
+      "section | Verzauberungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G",
@@ -8109,7 +8109,7 @@
     "school": "Hervorrufung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker",
       "Paladin",
@@ -8117,7 +8117,7 @@
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 3. Grades | PHB 2024",
+      "section | Hervorrufungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -8139,13 +8139,13 @@
     "school": "Illusion",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Zaubertrick der Illusion | PHB 2024",
+      "section | Zaubertrick der Illusion | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G, M (etwas Phosphor)",
@@ -8166,14 +8166,14 @@
     "school": "Verwandlung",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Zaubertrick der Verwandlung | PHB 2024",
+      "section | Zaubertrick der Verwandlung | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 3 Meter",
       "property | Komponenten | V, G",
@@ -8199,12 +8199,12 @@
     "school": "Beschwörung",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier"
     ],
     "contents": [
-      "section | Beschwörungszauber 6. Grades | PHB 2024",
+      "section | Beschwörungszauber 6. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 1,5 Meter",
       "property | Komponenten | V, G, M (eine vergoldete Schöpfkelle im Wert von mindestens 500 GM)",
@@ -8226,13 +8226,13 @@
     "school": "Verzauberung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier"
     ],
     "contents": [
-      "section | Verzauberungszauber 1. Grades | PHB 2024",
+      "section | Verzauberungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (eine Torte und eine Feder)",
@@ -8255,12 +8255,12 @@
     "school": "Verwandlung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 5. Grades | PHB 2024",
+      "section | Verwandlungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -8284,11 +8284,11 @@
     "school": "Erkenntnis",
     "level": 8,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Erkenntniszauber 8. Grades | PHB 2024",
+      "section | Erkenntniszauber 8. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Unbegrenzt",
       "property | Komponenten | V, G, M (ein Paar verbundene Silberringe)",
@@ -8309,13 +8309,13 @@
     "school": "Beschwörung",
     "level": 7,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Beschwörungszauber 7. Grades | PHB 2024",
+      "section | Beschwörungszauber 7. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 3 Meter",
       "property | Komponenten | V",
@@ -8347,11 +8347,11 @@
     "school": "Beschwörung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Beschwörungszauber 1. Grades | PHB 2024",
+      "section | Beschwörungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion oder Ritual",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (ein Tropfen Quecksilber)",
@@ -8373,11 +8373,11 @@
     "school": "Verwandlung",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker"
     ],
     "contents": [
-      "section | Zaubertrick der Verwandlung | PHB 2024",
+      "section | Zaubertrick der Verwandlung | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V",
@@ -8403,13 +8403,13 @@
     "school": "Verzauberung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Waldläufer",
       "Zauberer"
     ],
     "contents": [
-      "section | Verzauberungszauber 4. Grades | PHB 2024",
+      "section | Verzauberungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -8433,12 +8433,12 @@
     "school": "Beschwörung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Waldläufer"
     ],
     "contents": [
-      "section | Beschwörungszauber 2. Grades | PHB 2024",
+      "section | Beschwörungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 27 Meter",
       "property | Komponenten | V, G, M (eine Feder, ein Fellbüschel und ein Fischschwanz in einer vergoldeten Eichel im Wert von mindestens 200 GM)",
@@ -8461,13 +8461,13 @@
     "school": "Verzauberung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Waldläufer"
     ],
     "contents": [
-      "section | Verzauberungszauber 2. Grades | PHB 2024",
+      "section | Verzauberungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion oder Ritual",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (ein Happen Nahrung)",
@@ -8491,12 +8491,12 @@
     "school": "Beschwörung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Waldläufer"
     ],
     "contents": [
-      "section | Beschwörungszauber 3. Grades | PHB 2024",
+      "section | Beschwörungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -8520,13 +8520,13 @@
     "school": "Erkenntnis",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Waldläufer"
     ],
     "contents": [
-      "section | Erkenntniszauber 2. Grades | PHB 2024",
+      "section | Erkenntniszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion oder Ritual",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (etwas Fell von einem Bluthund)",
@@ -8546,11 +8546,11 @@
     "school": "Verwandlung",
     "level": 8,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide"
     ],
     "contents": [
-      "section | Verwandlungszauber 8. Grades | PHB 2024",
+      "section | Verwandlungszauber 8. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G",
@@ -8573,13 +8573,13 @@
     "school": "Verzauberung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Waldläufer"
     ],
     "contents": [
-      "section | Verzauberungszauber 1. Grades | PHB 2024",
+      "section | Verzauberungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (ein Happen Nahrung)",
@@ -8601,12 +8601,12 @@
     "school": "Erkenntnis",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Waldläufer"
     ],
     "contents": [
-      "section | Erkenntniszauber 2. Grades | PHB 2024",
+      "section | Erkenntniszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion oder Ritual",
       "property | Reichweite | Berührung",
       "property | Komponenten | S",
@@ -8626,13 +8626,13 @@
     "school": "Nekromantie",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Nekromantiezauber 6. Grades | PHB 2024",
+      "section | Nekromantiezauber 6. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 45 Meter",
       "property | Komponenten | V, G, M (Pulver einer zerstoßenen schwarzen Perle im Wert von mindestens 500 GM)",
@@ -8654,12 +8654,12 @@
     "school": "Bann",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker",
       "Paladin"
     ],
     "contents": [
-      "section | Bannzauber 4. Grades | PHB 2024",
+      "section | Bannzauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G",
@@ -8680,12 +8680,12 @@
     "school": "Beschwörung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Beschwörungszauber 5. Grades | PHB 2024",
+      "section | Beschwörungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G",
@@ -8709,12 +8709,12 @@
     "school": "Illusion",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier"
     ],
     "contents": [
-      "section | Illusionszauber 4. Grades | PHB 2024",
+      "section | Illusionszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G",
@@ -8738,14 +8738,14 @@
     "school": "Beschwörung",
     "level": 9,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Kleriker",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Beschwörungszauber 9. Grades | PHB 2024",
+      "section | Beschwörungszauber 9. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G, M (ein Diamant im Wert von mindestens 5.000 GM)",
@@ -8768,12 +8768,12 @@
     "school": "Nekromantie",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker",
       "Magier"
     ],
     "contents": [
-      "section | Nekromantiezauber 3. Grades | PHB 2024",
+      "section | Nekromantiezauber 3. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute",
       "property | Reichweite | 3 Meter",
       "property | Komponenten | V, G, M (ein Tropfen Blut, ein Stück Fleisch und eine Prise Knochenstaub)",
@@ -8797,13 +8797,13 @@
     "school": "Nekromantie",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Kleriker",
       "Paladin"
     ],
     "contents": [
-      "section | Nekromantiezauber 5. Grades | PHB 2024",
+      "section | Nekromantiezauber 5. Grades | SRD521",
       "property | Zeitaufwand | 1 Stunde",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (ein Diamant im Wert von mindestens 500 GM, den der Zauber verbraucht)",
@@ -8826,13 +8826,13 @@
     "school": "Nekromantie",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Kleriker",
       "Magier"
     ],
     "contents": [
-      "section | Zaubertrick der Nekromantie | PHB 2024",
+      "section | Zaubertrick der Nekromantie | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -8854,14 +8854,14 @@
     "school": "Nekromantie",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Kleriker",
       "Magier"
     ],
     "contents": [
-      "section | Nekromantiezauber 3. Grades | PHB 2024",
+      "section | Nekromantiezauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion oder Ritual",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (eine Prise Friedhofserde)",
@@ -8883,13 +8883,13 @@
     "school": "Illusion",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier"
     ],
     "contents": [
-      "section | Illusionszauber 5. Grades | PHB 2024",
+      "section | Illusionszauber 5. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute",
       "property | Reichweite | Besonders",
       "property | Komponenten | V, G, M (eine Handvoll Sand)",
@@ -8912,12 +8912,12 @@
     "school": "Illusion",
     "level": 7,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier"
     ],
     "contents": [
-      "section | Illusionszauber 7. Grades | PHB 2024",
+      "section | Illusionszauber 7. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 800 km",
       "property | Komponenten | V, G, M (eine Statuette von dir im Wert von mindestens 5 GM)",
@@ -8940,11 +8940,11 @@
     "school": "Beschwörung",
     "level": 8,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide"
     ],
     "contents": [
-      "section | Beschwörungszauber 8. Grades | PHB 2024",
+      "section | Beschwörungszauber 8. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute",
       "property | Reichweite | 1,6 Kilometer",
       "property | Komponenten | V, G",
@@ -8967,13 +8967,13 @@
     "school": "Erkenntnis",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier",
       "Waldläufer"
     ],
     "contents": [
-      "section | Erkenntniszauber 3. Grades | PHB 2024",
+      "section | Erkenntniszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (eine Prise Diamantstaub im Wert von mindestens 25 GM, den der Zauber verbraucht)",
@@ -8993,12 +8993,12 @@
     "school": "Illusion",
     "level": 9,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier"
     ],
     "contents": [
-      "section | Illusionszauber 9. Grades | PHB 2024",
+      "section | Illusionszauber 9. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G",
@@ -9019,12 +9019,12 @@
     "school": "Beschwörung",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier"
     ],
     "contents": [
-      "section | Beschwörungszauber 6. Grades | PHB 2024",
+      "section | Beschwörungszauber 6. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 27 Meter",
       "property | Komponenten | V, G, M (eine blutige Phiole im Wert von mindestens 600 GM)",
@@ -9047,13 +9047,13 @@
     "school": "Beschwörung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier"
     ],
     "contents": [
-      "section | Beschwörungszauber 1. Grades | PHB 2024",
+      "section | Beschwörungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion oder Ritual",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G, M (ein Stück Schnur und etwas Holz)",
@@ -9075,13 +9075,13 @@
     "school": "Erkenntnis",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Erkenntniszauber 2. Grades | PHB 2024",
+      "section | Erkenntniszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (eine Prise Talk)",
@@ -9101,14 +9101,14 @@
     "school": "Illusion",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Illusionszauber 2. Grades | PHB 2024",
+      "section | Illusionszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (eine Wimper in Gummiarabikum)",
@@ -9130,13 +9130,13 @@
     "school": "Nekromantie",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Kleriker",
       "Magier"
     ],
     "contents": [
-      "section | Nekromantiezauber 6. Grades | PHB 2024",
+      "section | Nekromantiezauber 6. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute",
       "property | Reichweite | 3 Meter",
       "property | Komponenten | V, G, M (je ein schwarzer Onyx im Wert von mindestens 150 GM für jeden Leichnam)",
@@ -9160,12 +9160,12 @@
     "school": "Nekromantie",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier"
     ],
     "contents": [
-      "section | Nekromantiezauber 3. Grades | PHB 2024",
+      "section | Nekromantiezauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 27 Meter",
       "property | Komponenten | V, G, M (ein vergoldeter Schädel im Wert von mindestens 300 GM)",
@@ -9188,13 +9188,13 @@
     "school": "Nekromantie",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Nekromantiezauber 3. Grades | PHB 2024",
+      "section | Nekromantiezauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -9217,11 +9217,11 @@
     "school": "Verwandlung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Verwandlungszauber 4. Grades | PHB 2024",
+      "section | Verwandlungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | 10 Minuten",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G",
@@ -9243,11 +9243,11 @@
     "school": "Beschwörung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Paladin"
     ],
     "contents": [
-      "section | Beschwörungszauber 5. Grades | PHB 2024",
+      "section | Beschwörungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion, die du sofort ausführst, wenn du eine Kreatur mit einer Nahkampfwaffe oder einem waffenlosen Angriff getroffen hast",
       "property | Reichweite | Selbst",
       "property | Komponenten | V",
@@ -9267,7 +9267,7 @@
     "school": "Bann",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister",
       "Kleriker",
       "Magier",
@@ -9275,7 +9275,7 @@
       "Zauberer"
     ],
     "contents": [
-      "section | Bannzauber 4. Grades | PHB 2024",
+      "section | Bannzauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (ein Pentakel)",
@@ -9298,11 +9298,11 @@
     "school": "Verwandlung",
     "level": 7,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Verwandlungszauber 7. Grades | PHB 2024",
+      "section | Verwandlungszauber 7. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (Edelsteinpulver im Wert von mindestens 5.000 GM, das der Zauber verbraucht)",
@@ -9324,11 +9324,11 @@
     "school": "Beschwörung",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker"
     ],
     "contents": [
-      "section | Beschwörungszauber 6. Grades | PHB 2024",
+      "section | Beschwörungszauber 6. Grades | SRD521",
       "property | Zeitaufwand | 10 Minuten",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -9351,13 +9351,13 @@
     "school": "Verzauberung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Kleriker"
     ],
     "contents": [
-      "section | Verzauberungszauber 1. Grades | PHB 2024",
+      "section | Verzauberungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (ein Tropfen Blut)",
@@ -9379,14 +9379,14 @@
     "school": "Verwandlung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 2. Grades | PHB 2024",
+      "section | Verwandlungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (eine Prise Eisenpulver)",
@@ -9409,13 +9409,13 @@
     "school": "Verwandlung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 3. Grades | PHB 2024",
+      "section | Verwandlungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G, M (ein Tropfen Melasse)",
@@ -9437,12 +9437,12 @@
     "school": "Nekromantie",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker"
     ],
     "contents": [
-      "section | Zaubertrick der Nekromantie | PHB 2024",
+      "section | Zaubertrick der Nekromantie | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 4,5 Meter",
       "property | Komponenten | V, G",
@@ -9464,12 +9464,12 @@
     "school": "Illusion",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Illusionszauber 2. Grades | PHB 2024",
+      "section | Illusionszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V",
@@ -9489,13 +9489,13 @@
     "school": "Erkenntnis",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Kleriker",
       "Magier"
     ],
     "contents": [
-      "section | Erkenntniszauber 3. Grades | PHB 2024",
+      "section | Erkenntniszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Unbegrenzt",
       "property | Komponenten | V, G, M (ein Stück Kupferdraht)",
@@ -9517,12 +9517,12 @@
     "school": "Beschwörung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Waldläufer"
     ],
     "contents": [
-      "section | Beschwörungszauber 1. Grades | PHB 2024",
+      "section | Beschwörungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 27 Meter",
       "property | Komponenten | V, G",
@@ -9543,11 +9543,11 @@
     "school": "Beschwörung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Beschwörungszauber 1. Grades | PHB 2024",
+      "section | Beschwörungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | 1 Stunde oder Ritual",
       "property | Reichweite | 3 Meter",
       "property | Komponenten | V, G, M (brennender Weihrauch im Wert von mindestens 10 GM, den der Zauber verbraucht)",
@@ -9571,14 +9571,14 @@
     "school": "Verwandlung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 4. Grades | PHB 2024",
+      "section | Verwandlungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G, M (Kokon einer Raupe)",
@@ -9601,14 +9601,14 @@
     "school": "Verzauberung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verzauberungszauber 4. Grades | PHB 2024",
+      "section | Verzauberungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 27 Meter",
       "property | Komponenten | V, G, M (drei Nussschalen)",
@@ -9635,11 +9635,11 @@
     "school": "Verzauberung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Hexenmeister"
     ],
     "contents": [
-      "section | Verzauberungszauber 1. Grades | PHB 2024",
+      "section | Verzauberungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion",
       "property | Reichweite | 27 Meter",
       "property | Komponenten | V, G, M (versteinertes Auge eines Molchs)",
@@ -9662,7 +9662,7 @@
     "school": "Bann",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Kleriker",
@@ -9670,7 +9670,7 @@
       "Waldläufer"
     ],
     "contents": [
-      "section | Bannzauber 5. Grades | PHB 2024",
+      "section | Bannzauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (Diamantstaub im Wert von mindestens 100 GM, den der Zauber verbraucht)",
@@ -9695,13 +9695,13 @@
     "school": "Erkenntnis",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker",
       "Magier"
     ],
     "contents": [
-      "section | Erkenntniszauber 2. Grades | PHB 2024",
+      "section | Erkenntniszauber 2. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute oder Ritual",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (besonders markierte Stöcke, Knochen, Karten oder andere Weissagungsgegenstände im Wert von mindestens 25 GM)",
@@ -9727,14 +9727,14 @@
     "school": "Erkenntnis",
     "level": 9,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Hexenmeister",
       "Magier"
     ],
     "contents": [
-      "section | Erkenntniszauber 9. Grades | PHB 2024",
+      "section | Erkenntniszauber 9. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (eine Kolibrifeder)",
@@ -9754,12 +9754,12 @@
     "school": "Illusion",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier"
     ],
     "contents": [
-      "section | Illusionszauber 6. Grades | PHB 2024",
+      "section | Illusionszauber 6. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G, M (Jadestaub im Wert von mindestens 25 GM)",
@@ -9783,12 +9783,12 @@
     "school": "Bann",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier"
     ],
     "contents": [
-      "section | Bannzauber 6. Grades | PHB 2024",
+      "section | Bannzauber 6. Grades | SRD521",
       "property | Zeitaufwand | 1 Stunde",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (ein Silberstab im Wert von mindestens 10 GM)",
@@ -9819,11 +9819,11 @@
     "school": "Hervorrufung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker"
     ],
     "contents": [
-      "section | Hervorrufungszauber 2. Grades | PHB 2024",
+      "section | Hervorrufungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -9846,12 +9846,12 @@
     "school": "Nekromantie",
     "level": 9,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker"
     ],
     "contents": [
-      "section | Nekromantiezauber 9. Grades | PHB 2024",
+      "section | Nekromantiezauber 9. Grades | SRD521",
       "property | Zeitaufwand | 1 Stunde",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (Diamanten im Wert von 25.000 GM, die der Zauber verbraucht)",
@@ -9873,13 +9873,13 @@
     "school": "Verwandlung",
     "level": 9,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier"
     ],
     "contents": [
-      "section | Verwandlungszauber 9. Grades | PHB 2024",
+      "section | Verwandlungszauber 9. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (ein Tropfen Quecksilber, ein Stück Gummiarabikum und eine Rauchschwade)",
@@ -9907,7 +9907,7 @@
     "school": "Erkenntnis",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Kleriker",
@@ -9915,7 +9915,7 @@
       "Zauberer"
     ],
     "contents": [
-      "section | Erkenntniszauber 6. Grades | PHB 2024",
+      "section | Erkenntniszauber 6. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (Pilzpulver im Wert von mindestens 25 GM, das der Zauber verbraucht)",
@@ -9935,11 +9935,11 @@
     "school": "Verwandlung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier"
     ],
     "contents": [
-      "section | Verwandlungszauber 5. Grades | PHB 2024",
+      "section | Verwandlungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (eine Prise Sesamkörner)",
@@ -9960,11 +9960,11 @@
     "school": "Verzauberung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Paladin"
     ],
     "contents": [
-      "section | Verzauberungszauber 4. Grades | PHB 2024",
+      "section | Verzauberungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion, die du sofort ausführst, wenn du eine Kreatur mit einer Nahkampfwaffe oder einem waffenlosen Angriff getroffen hast",
       "property | Reichweite | Selbst",
       "property | Komponenten | V",
@@ -9986,14 +9986,14 @@
     "school": "Verwandlung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Magier",
       "Waldläufer",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 3. Grades | PHB 2024",
+      "section | Verwandlungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion oder Ritual",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (ein kurzes Schilfrohr)",
@@ -10013,12 +10013,12 @@
     "school": "Verwandlung",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker"
     ],
     "contents": [
-      "section | Verwandlungszauber 1. Grades | PHB 2024",
+      "section | Verwandlungszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (eine Mischung aus Wasser und Sand)",
@@ -10042,13 +10042,13 @@
     "school": "Verwandlung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker",
       "Magier"
     ],
     "contents": [
-      "section | Verwandlungszauber 4. Grades | PHB 2024",
+      "section | Verwandlungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 90 Meter",
       "property | Komponenten | V, G, M (eine Mischung aus Wasser und Staub)",
@@ -10072,14 +10072,14 @@
     "school": "Verwandlung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker",
       "Waldläufer",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 3. Grades | PHB 2024",
+      "section | Verwandlungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion oder Ritual",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (ein Stück Kork)",
@@ -10100,13 +10100,13 @@
     "school": "Erkenntnis",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Kleriker"
     ],
     "contents": [
-      "section | Erkenntniszauber 6. Grades | PHB 2024",
+      "section | Erkenntniszauber 6. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (ein Satz Weissagungsgegenstände wie Karten oder Runen im Wert von mindestens 100 GM)",
@@ -10127,11 +10127,11 @@
     "school": "Bann",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker"
     ],
     "contents": [
-      "section | Bannzauber 5. Grades | PHB 2024",
+      "section | Bannzauber 5. Grades | SRD521",
       "property | Zeitaufwand | 24 Stunden",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (Weihrauch im Wert von mindestens 1.000 GM, den der Zauber verbraucht)",
@@ -10163,13 +10163,13 @@
     "school": "Erkenntnis",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker",
       "Magier"
     ],
     "contents": [
-      "section | Erkenntniszauber 4. Grades | PHB 2024",
+      "section | Erkenntniszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion oder Ritual",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (Weihrauch im Wert von mindestens 25 GM, den der Zauber verbraucht)",
@@ -10190,12 +10190,12 @@
     "school": "Beschwörung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Waldläufer"
     ],
     "contents": [
-      "section | Beschwörungszauber 4. Grades | PHB 2024",
+      "section | Beschwörungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G",
@@ -10218,13 +10218,13 @@
     "school": "Verwandlung",
     "level": 8,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker",
       "Magier"
     ],
     "contents": [
-      "section | Verwandlungszauber 8. Grades | PHB 2024",
+      "section | Verwandlungszauber 8. Grades | SRD521",
       "property | Zeitaufwand | 10 Minuten",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (brennender Weihrauch)",
@@ -10249,12 +10249,12 @@
     "school": "Bann",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker"
     ],
     "contents": [
-      "section | Zaubertrick des Banns | PHB 2024",
+      "section | Zaubertrick des Banns | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G",
@@ -10274,14 +10274,14 @@
     "school": "Nekromantie",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Kleriker",
       "Paladin",
       "Waldläufer"
     ],
     "contents": [
-      "section | Nekromantiezauber 3. Grades | PHB 2024",
+      "section | Nekromantiezauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (ein Diamant im Wert von mindestens 300 GM, den der Zauber verbraucht)",
@@ -10301,11 +10301,11 @@
     "school": "Nekromantie",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide"
     ],
     "contents": [
-      "section | Nekromantiezauber 5. Grades | PHB 2024",
+      "section | Nekromantiezauber 5. Grades | SRD521",
       "property | Zeitaufwand | 1 Stunde",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (seltene Öle im Wert von mindestens 1.000 GM, die der Zauber verbraucht)",
@@ -10336,14 +10336,14 @@
     "school": "Hervorrufung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Magier",
       "Waldläufer",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 2. Grades | PHB 2024",
+      "section | Hervorrufungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (ein Hülsenfruchtsamen)",
@@ -10366,12 +10366,12 @@
     "school": "Hervorrufung",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide",
       "Waldläufer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 3. Grades | PHB 2024",
+      "section | Hervorrufungszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 36 Meter",
       "property | Komponenten | V, G, M (ein Fächer und eine Feder)",
@@ -10393,11 +10393,11 @@
     "school": "Verwandlung",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Druide"
     ],
     "contents": [
-      "section | Verwandlungszauber 6. Grades | PHB 2024",
+      "section | Verwandlungszauber 6. Grades | SRD521",
       "property | Zeitaufwand | 1 Minute",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G, M (eine Kerze)",
@@ -10419,14 +10419,14 @@
     "school": "Verzauberung",
     "level": 8,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Hexenmeister",
       "Magier"
     ],
     "contents": [
-      "section | Verzauberungszauber 8. Grades | PHB 2024",
+      "section | Verzauberungszauber 8. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 45 Meter",
       "property | Komponenten | V, G, M (ein Schlüsselring ohne Schlüssel)",
@@ -10448,14 +10448,14 @@
     "school": "Verzauberung",
     "level": 8,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verzauberungszauber 8. Grades | PHB 2024",
+      "section | Verzauberungszauber 8. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V",
@@ -10476,12 +10476,12 @@
     "school": "Verzauberung",
     "level": 9,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Kleriker"
     ],
     "contents": [
-      "section | Verzauberungszauber 9. Grades | PHB 2024",
+      "section | Verzauberungszauber 9. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V",
@@ -10501,12 +10501,12 @@
     "school": "Verzauberung",
     "level": 7,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Kleriker"
     ],
     "contents": [
-      "section | Verzauberungszauber 7. Grades | PHB 2024",
+      "section | Verzauberungszauber 7. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V",
@@ -10526,14 +10526,14 @@
     "school": "Verzauberung",
     "level": 9,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verzauberungszauber 9. Grades | PHB 2024",
+      "section | Verzauberungszauber 9. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V",
@@ -10553,11 +10553,11 @@
     "school": "Beschwörung",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker"
     ],
     "contents": [
-      "section | Beschwörungszauber 6. Grades | PHB 2024",
+      "section | Beschwörungszauber 6. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 1,5 Meter",
       "property | Komponenten | V",
@@ -10578,11 +10578,11 @@
     "school": "Hervorrufung",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker"
     ],
     "contents": [
-      "section | Zaubertrick der Hervorrufung | PHB 2024",
+      "section | Zaubertrick der Hervorrufung | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, M (ein Sonnenfeuer-Symbol)",
@@ -10604,7 +10604,7 @@
     "school": "Bann",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Druide",
       "Kleriker",
@@ -10612,7 +10612,7 @@
       "Waldläufer"
     ],
     "contents": [
-      "section | Bannzauber 1. Grades | PHB 2024",
+      "section | Bannzauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G",
@@ -10634,11 +10634,11 @@
     "school": "Nekromantie",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker"
     ],
     "contents": [
-      "section | Nekromantiezauber 1. Grades | PHB 2024",
+      "section | Nekromantiezauber 1. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G",
@@ -10660,12 +10660,12 @@
     "school": "Beschwörung",
     "level": 9,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Beschwörungszauber 9. Grades | PHB 2024",
+      "section | Beschwörungszauber 9. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V",
@@ -10695,12 +10695,12 @@
     "school": "Verzauberung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier"
     ],
     "contents": [
-      "section | Verzauberungszauber 5. Grades | PHB 2024",
+      "section | Verzauberungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V, G, M (eine Miniaturtiara)",
@@ -10720,11 +10720,11 @@
     "school": "Erkenntnis",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Waldläufer"
     ],
     "contents": [
-      "section | Erkenntniszauber 1. Grades | PHB 2024",
+      "section | Erkenntniszauber 1. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion",
       "property | Reichweite | 27 Meter",
       "property | Komponenten | V",
@@ -10747,12 +10747,12 @@
     "school": "Verwandlung",
     "level": 9,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Verwandlungszauber 9. Grades | PHB 2024",
+      "section | Verwandlungszauber 9. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V",
@@ -10773,13 +10773,13 @@
     "school": "Hervorrufung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Hervorrufungszauber 2. Grades | PHB 2024",
+      "section | Hervorrufungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G, M (ein Glimmersplitter)",
@@ -10801,11 +10801,11 @@
     "school": "Hervorrufung",
     "level": 5,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Paladin"
     ],
     "contents": [
-      "section | Hervorrufungszauber 5. Grades | PHB 2024",
+      "section | Hervorrufungszauber 5. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | V",
@@ -10825,14 +10825,14 @@
     "school": "Erkenntnis",
     "level": 0,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Magier",
       "Zauberer"
     ],
     "contents": [
-      "section | Zaubertrick der Erkenntnis | PHB 2024",
+      "section | Zaubertrick der Erkenntnis | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Selbst",
       "property | Komponenten | G, M (eine Waffe, mit der du Übung hast, im Wert von mindestens 1 KM)",
@@ -10854,13 +10854,13 @@
     "school": "Verzauberung",
     "level": 2,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Kleriker",
       "Paladin"
     ],
     "contents": [
-      "section | Verzauberungszauber 2. Grades | PHB 2024",
+      "section | Verzauberungszauber 2. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 18 Meter",
       "property | Komponenten | V, G",
@@ -10881,11 +10881,11 @@
     "school": "Nekromantie",
     "level": 1,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Paladin"
     ],
     "contents": [
-      "section | Nekromantiezauber 1. Grades | PHB 2024",
+      "section | Nekromantiezauber 1. Grades | SRD521",
       "property | Zeitaufwand | Bonusaktion, die du sofort ausführst, wenn du eine Kreatur mit einer Nahkampfwaffe oder einem waffenlosen Angriff getroffen hast",
       "property | Reichweite | Selbst",
       "property | Komponenten | V",
@@ -10907,11 +10907,11 @@
     "school": "Bann",
     "level": 6,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Kleriker"
     ],
     "contents": [
-      "section | Bannzauber 6. Grades | PHB 2024",
+      "section | Bannzauber 6. Grades | SRD521",
       "property | Zeitaufwand | 10 Minuten oder Ritual",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, G, M (Rubinstaub im Wert von mindestens 1.000 GM)",
@@ -10934,7 +10934,7 @@
     "school": "Erkenntnis",
     "level": 3,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde",
       "Hexenmeister",
       "Kleriker",
@@ -10942,7 +10942,7 @@
       "Zauberer"
     ],
     "contents": [
-      "section | Erkenntniszauber 3. Grades | PHB 2024",
+      "section | Erkenntniszauber 3. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | Berührung",
       "property | Komponenten | V, M (eine Miniatur-Zikkurat)",
@@ -10962,11 +10962,11 @@
     "school": "Verzauberung",
     "level": 4,
     "tags": [
-      "PHB 2024",
+      "SRD521",
       "Barde"
     ],
     "contents": [
-      "section | Verzauberungszauber 4. Grades | PHB 2024",
+      "section | Verzauberungszauber 4. Grades | SRD521",
       "property | Zeitaufwand | Aktion",
       "property | Reichweite | 9 Meter",
       "property | Komponenten | V, G",
